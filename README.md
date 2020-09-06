@@ -25,10 +25,12 @@ References
 
 - O'Neil, C. and Schutt, R., 2014. Doing data science: Straight talk from the frontline. O'Reilly Media, Inc.
 
+- Downey, A., 2014. Think stats: exploratory data analysis. O'Reilly Media, Inc.
+
 - Shaw, Z.A., 2017. Learn python 3 the hard way: A very simple introduction to the terrifyingly beautiful world of computers and code. Addison-Wesley Professional.
 
-- G. Nguyen, S. Dlugolinsky, M. Bobak, V. Tran, A. López García, I. Heredia, P. Malik, L. Hluchy: [Machine Learning and Deep Learning frameworks and libraries for large-scale data mining: a survey](https://doi.org/10.1007/s10462-018-09679-z). Artificial Intelligence Review, Springer Nature, 2019, ISSN 0269-2821, DOI 10.1007/s10462-018-09679-z, SCI, Open Access, CC BY 4.0. [ PDF ](https://link.springer.com/article/10.1007%2Fs10462-018-09679-z).
+- Nguyen G. et al.: [Machine Learning and Deep Learning frameworks and libraries for large-scale data mining: a survey](https://doi.org/10.1007/s10462-018-09679-z). Artificial Intelligence Review, Springer Nature, 2019, ISSN 0269-2821, DOI 10.1007/s10462-018-09679-z.
 
-- G. Nguyen, J. Astaloš, L. Hluchý: [Considerations about Data Processing, Machine Learning, HPC, Apache Spark and GPU](https://giangzuzana.github.io/files/2016_WIKT-DaZ.pdf). 11th Workshop on Intelligent and Knowledge Oriented Technologies affiliated with 35th International conference Data and Knowledge (WIKT-DaZ 2016), pp. 241-247, ISBN 978-80-227-4619-9. (Eds. M. Bieliková and I. Srba)
+- Nguyen G. et al.: [Considerations about Data Processing, Machine Learning, HPC, Apache Spark and GPU](https://giangzuzana.github.io/files/2016_WIKT-DaZ.pdf). 11th Workshop on Intelligent and Knowledge Oriented Technologies affiliated with 35th int. conf. Data and Knowledge (WIKT-DaZ 2016), pp. 241-247, ISBN 978-80-227-4619-9. (Eds. M. Bieliková and I. Srba)
 
 - R. Móro, J. Ševcech, O. Kaššák: [Intelligent Data Analysis at FIIT STU in 2019/2020](https://github.com/robom/IAU-2019-2020)
