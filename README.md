@@ -18,7 +18,7 @@ Skúška: **max. 50 bodov**
 
 V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
 
-Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Za samozrejmosť sa považuje dodržanie pravidiel akademickej korektnosti a čestnosti. Akékoľvek vydávanie cudzej práce za vlastnú je neakceptovateľné, a to v akomkoľvek rozsahu. Ak sa ho dopustíte, automaticky to znamená neúspešné ukončenie predmetu (FX) a podnet na disciplinárnu komisiu.
+Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Hodnotenie študenta je súčet získaných bodov za cvičenie, projekt  a za skúšku. Ak študent získa najmenej 92 bodov je hodnotený klasifikačným stupňom A, ak získa najmenej 83 bodov je hodnotený klasifikačným stupňom B, ak získa najmenej 74 bodov je hodnotený klasifikačným stupňom C, ak získa najmenej 65 bodov je hodnotený klasifikačným stupňom D, ak získa najmenej 56 bodov je hodnotený klasifikačným stupňom E, ak získa menej ako 56 bodov je hodnotený klasifikačným stupňom FX. Za samozrejmosť sa považuje dodržanie pravidiel akademickej korektnosti a čestnosti. Akékoľvek vydávanie cudzej práce za vlastnú je neakceptovateľné, a to v akomkoľvek rozsahu. Ak sa ho dopustíte, automaticky to znamená neúspešné ukončenie predmetu (FX) a podnet na disciplinárnu komisiu.
 
 References
 ------------
