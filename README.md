@@ -16,7 +16,7 @@ Skúška: **max. 50 bodov**
 4. získanie aspoň 10 bodov zo skúšky
 5. získanie aspoň 56 bodov v súčte bodov za semester a skúšku podľa platnej klasifikačnej stupnice na FIIT STU
 
-V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou (t.j. váš bodový zisk za danú fázu sa bude násobiť koeficientom 0,5). Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
+V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
 
 Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Za samozrejmosť sa považuje dodržanie pravidiel akademickej korektnosti a čestnosti. Akékoľvek vydávanie cudzej práce za vlastnú je neakceptovateľné, a to v akomkoľvek rozsahu. Ak sa ho dopustíte, automaticky to znamená neúspešné ukončenie predmetu (FX) a podnet na disciplinárnu komisiu.
 
