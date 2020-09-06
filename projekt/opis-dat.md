@@ -17,4 +17,4 @@ Dátová sada obsahuje atribúty:
 - Informácie o  pacientovi ako vek, dátum narodenia, najvyššiu úroveň dosiahnutého vzdelania, typ zamestnania, rodinný stav, rasa, pohlavie, krajina narodenia, príjem a týždenné pracovné zaťaženie.
 - Závislú premennú indikujúcu skutočnú prítomnosť ochorenia
 
-Zdroj: [Intelligent Data Analysis at FIIT STU in 2019/2020](https://github.com/robom/IAU-2019-2020))
+Zdroj: [Intelligent Data Analysis at FIIT STU in 2019/2020](https://github.com/robom/IAU-2019-2020)
