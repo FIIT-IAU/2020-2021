@@ -1,6 +1,6 @@
 # Informácie o dátovej sade
 
-[Dátová sada](https://drive.google.com/drive/folders/1qsPo2LLpPypq9IQZViOZ4rFZg5IA4ccR)
+J. Ševcech: [Dátová sada](https://drive.google.com/drive/folders/1qsPo2LLpPypq9IQZViOZ4rFZg5IA4ccR)
 
 Dátová sada predstavuje záznamy pacientov s podozrením na výskyt cukrovky. 
 Údaje sú rozdelené do dvoch súborov: osobné údaje o pacientoch a zdravotné údaje o pacientoch. Tieto súbory opisujú rovnakú množinu pacientov.
