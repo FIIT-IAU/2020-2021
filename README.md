@@ -1,4 +1,4 @@
-# Podmienky absolvovania predmetu
+#  Intelligent Data Analysis (Inteligentná analýza údajov - IAU)
 
 ## Priebežné hodnotenie počas semestra
 
