@@ -4,7 +4,8 @@
 
 ## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia)
 
-## [Projekt](https://github.com/FIIT-IAU/2020-2021/tree/master/projekt)
+   [Projekt](https://github.com/FIIT-IAU/2020-2021/tree/master/projekt)
+
 
 ## Podmienky na absolvovanie predmetu
 Projekt vo dvojiciach: **max. 50 bodov**
@@ -15,6 +16,7 @@ Práca na projekte a úlohách v rámci cvičení: 5 bodov
 3. fáza - strojové učenie (v 12. týždni): 15 bodov
 
 Skúška: **max. 50 bodov**
+
 
 ## Ďalšie podmienky pre úspešné absolvovanie predmetu:
 1. vypracovanie projektu v akceptovateľnej kvalite, jeho odovzdanie a prezentovanie podľa harmonogramu
