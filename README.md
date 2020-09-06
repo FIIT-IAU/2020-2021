@@ -4,7 +4,7 @@
 
 ## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia)
 
-   [Projekt](https://github.com/FIIT-IAU/2020-2021/tree/master/projekt)
+   [**Projekt**](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia/projekt)
 
 
 ## Podmienky na absolvovanie predmetu
