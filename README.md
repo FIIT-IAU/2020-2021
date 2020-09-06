@@ -2,7 +2,7 @@
 
 ## [Prednášky](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky)
 
-## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia) vrátane [Projekt](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia/projekt)
+## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia) a [Projekt](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia/projekt)
 
 
 ## Podmienky na absolvovanie predmetu
