@@ -1,6 +1,12 @@
 #  Intelligent Data Analysis - Inteligentná analýza údajov
 
-## Podmienky na absolvovanie predmetu:
+## [Prednášky](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky)
+
+## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia)
+
+## [Projekt](https://github.com/FIIT-IAU/2020-2021/tree/master/projekt)
+
+## Podmienky na absolvovanie predmetu
 Projekt vo dvojiciach: **max. 50 bodov**
 
 Práca na projekte a úlohách v rámci cvičení: 5 bodov
