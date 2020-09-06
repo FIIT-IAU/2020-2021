@@ -1,4 +1,4 @@
-#  Intelligent Data Analysis (Inteligentná analýza údajov - IAU)
+#  Intelligent Data Analysis - Inteligentná analýza údajov
 
 ## Podmienky na absolvovanie predmetu:
 Projekt vo dvojiciach: **max. 50 bodov**
