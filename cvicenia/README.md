@@ -35,3 +35,5 @@ Projekt: konzultácia
 ### 12. týždeň
 
 Projekt: konzultácia
+
+Správa sa odovzdáva v 12. týždni semestra na cvičení (dvojica svojmu cvičiacemu odprezentuje výsledky strojového učenia v Jupyter Notebooku). Následne správu elektronicky odovzdá jeden člen z dvojice do systému AIS do ** 14.12.2020 00:00**.
