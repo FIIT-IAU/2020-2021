@@ -2,7 +2,34 @@
 
 ## [Prednášky](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky)
 
+1. Úvod do inteligentnej analýzy údajov
+
+2. Úvod do spracovania údajov v jazyku Python
+
+3. Prieskumná analýza a vizualizácia údajov
+
+4. Získavanie a prepájanie údajov
+
+5. Prieskumná analýza s využitím štatistickej analýzy
+
+6. Čistenie a predspracovanie údajov
+
+7. Predspracovanie textových dát
+
+8. Vyhodnocovanie a výber modelov
+
+9. Lineárna a logistická regresia
+
+10. Rozhodovacie stromy
+
+11. Numerická optimalizácia a simulácie
+
+12. Pokročilé témy analýzy údajov
+
+
+
 ## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia) a [projekt](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia/projekt)
+
 
 
 ## Podmienky na absolvovanie predmetu
@@ -15,7 +42,6 @@ Práca na projekte a úlohách v rámci cvičení: 5 bodov
 
 Skúška: **max. 50 bodov**
 
-
 ## Ďalšie podmienky pre úspešné absolvovanie predmetu:
 1. vypracovanie projektu v akceptovateľnej kvalite, jeho odovzdanie a prezentovanie podľa harmonogramu
 2. aktívna účasť na cvičeniach
@@ -27,7 +53,7 @@ V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do sy
 
 Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Hodnotenie študenta je súčet získaných bodov za cvičenie, projekt  a za skúšku. Ak študent získa najmenej 92 bodov je hodnotený klasifikačným stupňom A, ak získa najmenej 83 bodov je hodnotený klasifikačným stupňom B, ak získa najmenej 74 bodov je hodnotený klasifikačným stupňom C, ak získa najmenej 65 bodov je hodnotený klasifikačným stupňom D, ak získa najmenej 56 bodov je hodnotený klasifikačným stupňom E, ak získa menej ako 56 bodov je hodnotený klasifikačným stupňom FX. Za samozrejmosť sa považuje dodržanie pravidiel akademickej korektnosti a čestnosti. Akékoľvek vydávanie cudzej práce za vlastnú je neakceptovateľné, a to v akomkoľvek rozsahu. Ak sa ho dopustíte, automaticky to znamená neúspešné ukončenie predmetu (FX) a podnet na disciplinárnu komisiu.
 
-References
+References/Literatúry
 ------------
 
 - O'Neil, C. and Schutt, R., 2014. Doing data science: Straight talk from the frontline. O'Reilly Media, Inc.
