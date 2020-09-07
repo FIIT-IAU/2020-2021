@@ -21,4 +21,3 @@
 11. Numerická optimalizácia a simulácie
 
 12. Pokročilé témy analýzy údajov
-
