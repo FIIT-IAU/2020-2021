@@ -1,6 +1,6 @@
 ### 1. týždeň
 
-Príprava prostredia
+Príprava prostredia: Python virtual environments
 
 ### 2. týždeň
 
