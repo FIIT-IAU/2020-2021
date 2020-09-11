@@ -41,8 +41,7 @@ Projekt: konzultácia + odovzdávanie 3. fázy projektu do systému AIS do **13.
 > 9. týždni (2. fáza) a 
 > 12. týždni (3. fáza) semestra na cvičení. 
 > 
-> Dvojica svojmu cvičiacemu odprezentuje výsledky strojového učenia v Jupyter Notebooku. 
-> Následne správu elektronicky odovzdá jeden člen z dvojice do systému AIS do nedele 
+> Dvojica svojmu cvičiacemu odprezentuje výsledky v Jupyter Notebooku. Následne správu elektronicky odovzdá jeden člen z dvojice do systému AIS do  
 > **01.11.2020 23:59** (1. fáza),
 > **22.11.2020 23:59** (2. fáza) a
 > **13.12.2020 23:59** (2. fáza).
