@@ -34,34 +34,44 @@ Prieskumná analýza je kľúčovou časťou analýzy dát.
 Bez nej nie sme schopní dáta spracúvať, pretože nevieme, čo sa v nich nachádza. 
 Využíva sa  pritom predovšetkým deskriptívna štatistika a rôzne podporné vizualizácie. 
 
-V tejto fáze sa od vás očakáva:
+V tejto fáze sa od Vás očakáva:
 
 - **Základný opis dát spolu s ich charakteristikami (3b).** 
 <!--
-Pre dosiahnutie plného počtu bodov uveďte počet záznamov, počet atribútov, ich typy a pre zvolené významné atribúty ich distribúcie, základné deskriptívne štatistiky a pod.
+Pre dosiahnutie plného počtu bodov uveďte počet záznamov, počet atribútov, ich typy a 
+pre zvolené významné atribúty ich distribúcie, základné deskriptívne štatistiky a pod.
 -->
 - **Párová analýza dát (4b).** 
 <!--
-Preskúmajte vzťahy medzi zvolenými dvojicami atribútov. Zamerajte sa pritom na identifikáciu závislostí medzi dvojicami atribútov (napr. korelácie) a na závislosti medzi predikovanou premennou a ostatnými premennými (potenciálnymi prediktormi).
+Preskúmajte vzťahy medzi zvolenými dvojicami atribútov. 
+Zamerajte sa pritom na identifikáciu závislostí medzi dvojicami atribútov (napr. korelácie) 
+a na závislosti medzi predikovanou premennou a ostatnými premennými (potenciálnymi prediktormi).
 -->
 - **Formulácia a štatistické overenie hypotéz o dátach (2b).** 
 <!--
-Mali by ste sformulovať aspoň dve hypotézy o dátach, ktoré budú relevantné v kontexte zadanej predikčnej úlohy. Príkladom hypotézy (v závislosti od pridelenej dátovej sady) môže byť, že *pacienti s chorobou štítnej žľazy majú v priemere inú (vyššiu/nižšiu) hodnotu nejakej látky alebo hormónu ako pacienti bez danej choroby*. Vami sformulované hypotézy overte vhodne zvoleným štatistickým testom.
+Mali by ste sformulovať aspoň dve hypotézy o dátach, ktoré budú relevantné v kontexte zadanej predikčnej úlohy. 
+Príkladom hypotézy (v závislosti od pridelenej dátovej sady) môže byť, že *pacienti s chorobou štítnej žľazy 
+majú v priemere inú (vyššiu/nižšiu) hodnotu nejakej látky alebo hormónu ako pacienti bez danej choroby*. 
+Vami sformulované hypotézy overte vhodne zvoleným štatistickým testom.
 -->
 - **Identifikácia problémov v dátach spolu s predpokladaným scenárom riešenia v ďalšej fáze (3b).** 
 <!--
-Mali by ste identifikovať, čo budete musieť v rámci predspracovania vyriešiť (aj s naznačením možností, ako tieto problémy plánujete v ďalšej fáze riešiť). Medzi problémy, na ktoré môžete v rámci analýzy naraziť, patria napr.: 
+Mali by ste identifikovať, čo budete musieť v rámci predspracovania vyriešiť (aj s naznačením možností, 
+ako tieto problémy plánujete v ďalšej fáze riešiť). Medzi problémy, na ktoré môžete v rámci analýzy naraziť, 
+patria napr.: 
    - nevhodná štruktúra dát (dáta nie sú v tabuľkovej podobe alebo jedna entita je opísaná viacerými riadkami tabuľky)
    - duplicitné záznamy, resp. nejednoznačné mapovanie medzi záznamami
    - nejednotné formáty dát
    - chýbajúce hodnoty
    - vychýlené (odľahlé) hodnoty
-   - a ďalšie, t. j. v dátach sa môžu nachádzať aj iné, tu nevymenované problémy, ktoré tiež treba identifikovať a vo vašej analýze adresovať.
+   - a ďalšie, t. j. v dátach sa môžu nachádzať aj iné, tu nevymenované problémy, 
+   ktoré tiež treba identifikovať a vo vašej analýze adresovať.
 
 V odovzdanej správe (`Jupyter Notebooku`) by ste tak mali vedieť zodpovedať na otázky:
 - Majú dáta vhodný formát pre ďalšie spracovanie? Ak nie, aké problémy sa v nich vyskytujú?
 - Sú niektoré atribúty medzi sebou závislé? Od ktorých (jednotlivých) atribútov závisí predikovaná premenná?
-- Sú v dátach chýbajúce hodnoty? Ako sú reprezentované? Ako plánujete riešiť problém chýbajúcich hodnôt pre jednotlivé atribúty, resp. pozorovania? (Pre rôzne atribúty môže byť vhodné použiť rôzne stratégie.)
+- Sú v dátach chýbajúce hodnoty? Ako sú reprezentované? Ako plánujete riešiť problém chýbajúcich hodnôt 
+pre jednotlivé atribúty, resp. pozorovania? (Pre rôzne atribúty môže byť vhodné použiť rôzne stratégie.)
 - Nadobúdajú niektoré atribúty nezmyselné (nekonzistentné) či inak výrazne odchýlené hodnoty? Ktoré?
 - Ako plánujete v ďalšej fáze tieto identifikované problémy adresovať / riešiť?
 -->
@@ -85,7 +95,7 @@ Napokon, keďže sa predspracovaním mohol zmeniť tvar a charakteristiky dát
 Významnú časť hodnotenia bude predstavovať znovupoužiteľnosť (replikovateľnosť) predspracovania.
 -->
 
-V tejto fáze sa od vás očakáva:
+V tejto fáze sa od Vás očakáva:
 - **Integrácia dát a prípadná deduplikácia záznamov (4b).** 
 <!--
 Výsledkom by mala byť jednotná tabuľková reprezentácia dát, ktorá bude predstavovať vstup 
@@ -93,7 +103,9 @@ pre ďalšie spracovanie a (v 3. fáze) strojové učenie.
 -->
 - **Realizácia predspracovania dát a ich zdokumentovanie (5b).** 
 <!--
-  - Pri riešení chýbajúcich hodnôt vyskúšajte rôzne stratégie (očakáva sa vyskúšanie minimálne dvoch stratégií, pričom aspoň jedna z nich musí byť zvolená z posledných troch menovaných):
+  - Pri riešení chýbajúcich hodnôt vyskúšajte rôzne stratégie 
+  (očakáva sa vyskúšanie minimálne dvoch stratégií, pričom aspoň jedna z nich 
+  musí byť zvolená z posledných troch menovaných):
     - nahradenie chýbajúcej hodnoty mediánom
     - nahradenie chýbajúcej hodnoty priemerom
     - nahradenie chýbajúcej hodnoty pomerom ku korelovanému atribútu
@@ -142,7 +154,7 @@ V tejto fáze dostanete nový dataset, na ktorom oddemonštrujete znovupoužite�
 Vami natrénované klasifikátory budú porovnané medzi sebou; 
 uvidíte tak, ako dobre ste sa umiestnili v rámci vášho cvičenia, resp. celého predmetu.
 -->
-V poslednej fáze sa od vás očakáva:
+V poslednej fáze sa od Vás očakáva:
 - **Predspracovanie nového datasetu vami realizovaným postupom predspracovania a opis prípadných zmien (2b).** 
 <!--
 Spustite postup predspracovania realizovaný v predchádzajúcej fáze nad novým datasetom. 
@@ -180,7 +192,9 @@ na správnosť (angl. accuracy) klasifikácie. Ktorá stratégia sa ukázala ako
 
 Správa sa odovzdáva v 12. týždni semestra na cvičení.
 Dvojica svojmu cvičiacemu odprezentuje výsledky strojového učenia v `Jupyter Notebooku`). 
-Následne správu elektronicky odovzdá jeden člen z  dvojice do systému AIS do **nedele 13.12.2020 23:59**.
+Následne správu elektronicky odovzdá jeden člen z dvojice do systému AIS do **nedele 13.12.2020 23:59**.
 
 
-Reference: [Intelligent Data Analysis at FIIT STU in 2019/2020](https://github.com/robom/IAU-2019-2020)
+
+### References 
+- [Intelligent Data Analysis at FIIT STU in 2019/2020](https://github.com/robom/IAU-2019-2020)
