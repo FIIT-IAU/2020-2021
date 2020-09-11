@@ -21,7 +21,7 @@ bude predstavovať významnú zložku hodnotenia.
 
 ## Dáta
 
-Každá dvojica bude pracovať s im náhodne pridelenou dátovou sadou. 
+Každá dvojica bude pracovať s im náhodne pridelenou dátovou sadou (4. týždeň). 
 <!-- 
 Dáta predstavujú záznamy o pacientoch, ktorí boli vyšetrovaní na cukrovku. 
 Vašou úlohou je vedieť predikovať hodnotu **Y** (môže sa líšiť v závislosti od pridelenej dátovej sady). 
