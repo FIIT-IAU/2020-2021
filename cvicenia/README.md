@@ -46,6 +46,6 @@ Projekt: konzultácia + odovzdávanie 3. fázy projektu do systému AIS do **13.
 > **01.11.2020 23:59** (1. fáza),
 > **22.11.2020 23:59** (2. fáza) a
 > **13.12.2020 23:59** (2. fáza).
-
+> 
 > V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať do 7 dní s **50% penalizáciou**. 
 > Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
