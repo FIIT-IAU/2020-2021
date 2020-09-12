@@ -4,7 +4,7 @@
 
 
 
-## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia) a [projekt](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia/projekt)
+## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia)
 
 
 
