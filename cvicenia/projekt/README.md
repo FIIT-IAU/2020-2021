@@ -7,7 +7,7 @@ a byť schopní aplikovať a vyhodnotiť základné prístupy strojového učeni
 
 **Projekt sa vypracúva vo dvojiciach.** 
 Pri riešení sa očakáva využitie jazyka `Python` 
-a dostupných knižníc na analýzu dát (`pandas`, `numpy`, `matplotlib` a pod.). 
+a dostupných knižníc na analýzu dát (`pandas`, `numpy`, atd.). 
 V každej fáze sa odovzdáva vykonateľný `Jupyter Notebook`, 
 ktorý by mal zachytávať a vhodne dokumentovať všetky vykonané transformácie nad dátami. 
 Odovzdaný notebook musí obsahovať nielen kód, 
@@ -73,9 +73,9 @@ pre jednotlivé atribúty, resp. pozorovania? (Pre rôzne atribúty môže byť 
 - Ako plánujete v ďalšej fáze tieto identifikované problémy adresovať / riešiť?
 -->
 
-Správa sa odovzdáva v 6. týždni semestra na cvičení.
-Dvojica svojmu cvičiacemu odprezentuje vykonanú prieskumnú analýzu v `Jupyter Notebooku`). 
-Následne správu elektronicky odovzdá jeden člen z  dvojice do systému AIS do **nedele 01.11.2020 23:59**.
+> Správa sa odovzdáva v 6. týždni semestra na cvičení.
+> Dvojica svojmu cvičiacemu odprezentuje vykonanú prieskumnú analýzu v `Jupyter Notebooku`). 
+> Následne správu elektronicky odovzdá jeden člen z  dvojice do systému AIS do **nedele 01.11.2020 23:59**.
 
 
 ## Predspracovanie (max. 18b)
@@ -132,9 +132,9 @@ po realizácii krokov predspracovania (t. j. treba ju realizovať len tam,
 kde vaším predspracovaním došlo k nejakým zmenám).
 -->
 
-Správa sa odovzdáva v 9. týždni semestra na cvičení.
-Dvojica svojmu cvičiacemu odprezentuje vykonané predspracovanie v `Jupyter Notebooku`). 
-Následne správu elektronicky odovzdá jeden člen z  dvojice do systému AIS do **nedele 22.11.2020 23:59**.
+> Správa sa odovzdáva v 9. týždni semestra na cvičení.
+> Dvojica svojmu cvičiacemu odprezentuje vykonané predspracovanie v `Jupyter Notebooku`). 
+> Následne správu elektronicky odovzdá jeden člen z  dvojice do systému AIS do **nedele 22.11.2020 23:59**.
 
 
 ## Strojové učenie (max. 15b)
@@ -184,9 +184,9 @@ Zistite, či použitie zvolených stratégií riešenia chýbajúcich hodnôt vp
 na správnosť (angl. accuracy) klasifikácie. Ktorá stratégia sa ukázala ako vhodnejšia pre daný problém?
 -->
 
-Správa sa odovzdáva v 12. týždni semestra na cvičení.
-Dvojica svojmu cvičiacemu odprezentuje výsledky strojového učenia v `Jupyter Notebooku`). 
-Následne správu elektronicky odovzdá jeden člen z dvojice do systému AIS do **nedele 13.12.2020 23:59**.
+> Správa sa odovzdáva v 12. týždni semestra na cvičení.
+> Dvojica svojmu cvičiacemu odprezentuje výsledky strojového učenia v `Jupyter Notebooku`). 
+> Následne správu elektronicky odovzdá jeden člen z dvojice do systému AIS do **nedele 13.12.2020 23:59**.
 
 
 
