@@ -8,6 +8,8 @@ Základné použitie jazyka Python a knižníc na prácu s dátami
 
 ### 3. týždeň
 
+Základy prieskumnej analýzy a vizualizácie údajov
+
 ### 4. týždeň
 
 Projekt: organizácia
