@@ -29,7 +29,7 @@ V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do sy
 
 Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Hodnotenie študenta je súčet získaných bodov za cvičenie, projekt  a za skúšku. Ak študent získa najmenej 92 bodov je hodnotený klasifikačným stupňom A, ak získa najmenej 83 bodov je hodnotený klasifikačným stupňom B, ak získa najmenej 74 bodov je hodnotený klasifikačným stupňom C, ak získa najmenej 65 bodov je hodnotený klasifikačným stupňom D, ak získa najmenej 56 bodov je hodnotený klasifikačným stupňom E, ak získa menej ako 56 bodov je hodnotený klasifikačným stupňom FX. Za samozrejmosť sa považuje dodržanie pravidiel akademickej korektnosti a čestnosti. Akékoľvek vydávanie cudzej práce za vlastnú je neakceptovateľné, a to v akomkoľvek rozsahu. Ak sa ho dopustíte, automaticky to znamená neúspešné ukončenie predmetu (FX) a podnet na disciplinárnu komisiu.
 
-References/Literatúry
+Literatúry
 ------------
 
 - O'Neil, C. and Schutt, R., 2014. Doing data science: Straight talk from the frontline. O'Reilly Media, Inc., ISBN 978-1449358655
@@ -42,12 +42,13 @@ References/Literatúry
 
 - Vanderplas, J., Python Data Science Handbook: Essential Tools for Working with Data. O'Reilly Media, 2016. 541 s. ISBN 978-1-4919-1205-8.
 
-- Móro R., Ševcech J., Kaššák O.: [Intelligent Data Analysis at FIIT STU in 2019/2020](https://github.com/robom/IAU-2019-2020)
 
-Additional reading
+Ďalšie čítanie
 ------------
 - Nguyen G. et al.: [Machine Learning and Deep Learning frameworks and libraries for large-scale data mining: a survey](https://doi.org/10.1007/s10462-018-09679-z). Artificial Intelligence Review, Springer Nature, 2019, ISSN 0269-2821, DOI 10.1007/s10462-018-09679-z.
 
 - Nguyen G. et al.: [Considerations about Data Processing, Machine Learning, HPC, Apache Spark and GPU](https://giangzuzana.github.io/files/2016_WIKT-DaZ.pdf). 11th Workshop on Intelligent and Knowledge Oriented Technologies affiliated with 35th int. conf. Data and Knowledge (WIKT-DaZ 2016), pp. 241-247, ISBN 978-80-227-4619-9. (Eds. M. Bieliková and I. Srba)
+
+- Móro R., Ševcech J., Kaššák O.: [Intelligent Data Analysis at FIIT STU in 2019/2020](https://github.com/robom/IAU-2019-2020)
 
 - Casella, G. and Berger, R.L., 2002. Statistical inference (Vol. 2, pp. 337-472). Pacific Grove, CA: Duxbury.
