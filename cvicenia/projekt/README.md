@@ -7,7 +7,7 @@ a byť schopní aplikovať a vyhodnotiť základné prístupy strojového učeni
 
 **Projekt sa vypracúva vo dvojiciach.** 
 Pri riešení sa očakáva využitie jazyka `Python` 
-a dostupných knižníc na analýzu dát (`pandas`, `numpy`, atd.). 
+a dostupných knižníc na analýzu dát (`pandas`, `numpy`, `scipy`, `scikit-learn`, atd.). 
 V každej fáze sa odovzdáva vykonateľný `Jupyter Notebook`, 
 ktorý by mal zachytávať a vhodne dokumentovať všetky vykonané transformácie nad dátami. 
 Odovzdaný notebook musí obsahovať nielen kód, 
