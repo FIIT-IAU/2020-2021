@@ -12,7 +12,7 @@ Základy prieskumnej analýzy a vizualizácie údajov
 
 ### 4. týždeň
 
-Projekt: organizácia v dvojiciach, zadanie projektu, Python a knižníce na prácu s dátami
+Projekt: organizácia v dvojiciach, zadanie projektu, Python a knižnice na prácu s dátami
 
 ### 5. týždeň
 
