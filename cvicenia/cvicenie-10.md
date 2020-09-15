@@ -1,2 +1,0 @@
-Cvicenie README.md
-
