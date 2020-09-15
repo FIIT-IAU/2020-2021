@@ -1,6 +1,6 @@
 ### 1. týždeň
 
-Príprava prostredia: Python virtual environments
+Príprava prostredia: Python virtual environments, hľadanie partnera na projekt
 
 ### 2. týždeň
 
@@ -12,7 +12,7 @@ Základy prieskumnej analýzy a vizualizácie údajov
 
 ### 4. týždeň
 
-Projekt: organizácia
+Projekt: organizácia v dvojiciach, zadanie projektu
 
 ### 5. týždeň
 
