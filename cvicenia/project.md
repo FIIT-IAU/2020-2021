@@ -29,7 +29,7 @@ Budete sa musieť pritom vysporiadať s viacerými problémami, ktoré sa v dát
 (formáty dát, chýbajúce, nezmyselné alebo vychýlené hodnoty a pod.).
 -->
 
-## Prieskumná analýza (max. 12b)
+## Prieskumná analýza (max. 16b)
 Prieskumná analýza je kľúčovou časťou analýzy dát. 
 Bez nej nie sme schopní dáta spracúvať, pretože nevieme, čo sa v nich nachádza. 
 Využíva sa pritom predovšetkým štatistika a rôzne podporné vizualizácie. 
@@ -37,11 +37,11 @@ Využíva sa pritom predovšetkým štatistika a rôzne podporné vizualizácie.
 <!--
 V tejto fáze sa od Vás očakáva:
 
-- **Základný opis dát spolu s ich charakteristikami (3b).** 
+- **Základný opis dát spolu s ich charakteristikami (5b).** 
 Pre dosiahnutie plného počtu bodov uveďte počet záznamov, počet atribútov, ich typy a 
 pre zvolené významné atribúty ich distribúcie, základné deskriptívne štatistiky a pod.
 
-- **Párová analýza dát (4b).** 
+- **Párová analýza dát (5b).** 
 Preskúmajte vzťahy medzi zvolenými dvojicami atribútov. 
 Zamerajte sa pritom na identifikáciu závislostí medzi dvojicami atribútov (napr. korelácie) 
 a na závislosti medzi predikovanou premennou a ostatnými premennými (potenciálnymi prediktormi).
@@ -52,7 +52,7 @@ Príkladom hypotézy (v závislosti od pridelenej dátovej sady) môže byť, ž
 majú v priemere inú (vyššiu/nižšiu) hodnotu nejakej látky alebo hormónu ako pacienti bez danej choroby*. 
 Vami sformulované hypotézy overte vhodne zvoleným štatistickým testom.
 
-- **Identifikácia problémov v dátach spolu s predpokladaným scenárom riešenia v ďalšej fáze (3b).** 
+- **Identifikácia problémov v dátach spolu s predpokladaným scenárom riešenia v ďalšej fáze (4b).** 
 Mali by ste identifikovať, čo budete musieť v rámci predspracovania vyriešiť (aj s naznačením možností, 
 ako tieto problémy plánujete v ďalšej fáze riešiť). Medzi problémy, na ktoré môžete v rámci analýzy naraziť, 
 patria napr.: 
@@ -78,7 +78,7 @@ pre jednotlivé atribúty, resp. pozorovania? (Pre rôzne atribúty môže byť 
 > Následne správu elektronicky odovzdá jeden člen z  dvojice do systému AIS do **nedele 01.11.2020 23:59**.
 
 
-## Predspracovanie (max. 18b)
+## Predspracovanie (max. 21b)
 
 Na základe identifikovaných problémov v dátach a návrhu ich riešenia v predchádzajúcej fáze 
 treba zrealizovať predspracovanie. Výsledkom by mala byť upravená dátová sada (vo formáte `csv`) 
@@ -95,11 +95,11 @@ Významnú časť hodnotenia bude predstavovať znovupoužiteľnosť (replikovat
 
 V tejto fáze sa od Vás očakáva:
 
-- **Integrácia dát a prípadná deduplikácia záznamov (4b).** 
+- **Integrácia dát a prípadná deduplikácia záznamov (5b).** 
 Výsledkom by mala byť jednotná tabuľková reprezentácia dát, ktorá bude predstavovať vstup 
 pre ďalšie spracovanie a (v 3. fáze) strojové učenie.
 
-- **Realizácia predspracovania dát a ich zdokumentovanie (5b).** 
+- **Realizácia predspracovania dát a ich zdokumentovanie (6b).** 
   - Pri riešení chýbajúcich hodnôt vyskúšajte rôzne stratégie 
   (očakáva sa vyskúšanie minimálne dvoch stratégií, pričom aspoň jedna z nich 
   musí byť zvolená z posledných troch menovaných):
@@ -126,7 +126,7 @@ pri spracovaní trénovacích údajov alebo aj pri spracovaní jednotlivých poz
 čím môžete do trénovania zaniesť znalosť z validačnej alebo testovacej množiny; 
 vaše riešenie toto musí ošetrovať.
 
-- **Opätovná realizácia podstatných častí prieskumnej analýzy (4b).** 
+- **Opätovná realizácia podstatných častí prieskumnej analýzy (5b).** 
 V rámci nej by ste mali vedieť zodpovedať na otázku, ako sa zmenili distribúcie hodnôt 
 po realizácii krokov predspracovania (t. j. treba ju realizovať len tam, 
 kde vaším predspracovaním došlo k nejakým zmenám).
@@ -137,7 +137,7 @@ kde vaším predspracovaním došlo k nejakým zmenám).
 > Následne správu elektronicky odovzdá jeden člen z  dvojice do systému AIS do **nedele 22.11.2020 23:59**.
 
 
-## Strojové učenie (max. 15b)
+## Strojové učenie (max. 18b)
 
 Pri dátovej analýze nemusí byť naším cieľom získať len znalosti obsiahnuté v aktuálnych dátach, 
 ale aj natrénovať model, ktorý bude schopný robiť rozumné predikcie pre nové pozorovania 
@@ -152,23 +152,19 @@ uvidíte tak, ako dobre ste sa umiestnili v rámci vášho cvičenia, resp. cel�
 
 V poslednej fáze sa od Vás očakáva:
 
-- **Predspracovanie nového datasetu vami realizovaným postupom predspracovania a opis prípadných zmien (2b).** 
+- **Predspracovanie nového datasetu vami realizovaným postupom predspracovania a opis prípadných zmien (3b).** 
 Spustite postup predspracovania realizovaný v predchádzajúcej fáze nad novým datasetom. 
 Nový dataset bude mať rovnakú štruktúru ako váš pôvodný, 
 nebudú sa v ňom však možno nachádzať niektoré problémy (nové vám nepribudnú). 
 Ak si spustenie predspracovania vyžiada zmeny v kóde, opíšte ich.
 
-- **Vytvorenie a vyhodnotenie rozhodovacích pravidiel pre klasifikáciu (3b).** 
-
-- **Manuálne vytvorenie a vyhodnotenie rozhodovacích pravidiel pre klasifikáciu (3b).** 
+- **Manuálne vytvorenie a vyhodnotenie rozhodovacích pravidiel pre klasifikáciu (4b).** 
 Vyskúšajte jednoduché pravidlá zahŕňajúce jeden atribút, ale aj komplikovanejšie zahŕňajúce viacero atribútov 
 (ich kombinácie). Pravidlá by v tomto kroku mali byť vytvorené manuálne na základe pozorovaných závislostí v dátach. 
 Pravidlá (manuálne vytvorené klasifikátory) vyhodnoťte pomocou metrík 
 správnosť (angl. *accuracy*), presnosť (angl. *precision*) a úplnosť (angl. *recall*). 
 
-- **Natrénovanie a vyhodnotenie klasifikátora (4b).** 
-
-- **Natrénovanie a vyhodnotenie klasifikátora s využitím rozhodovacích stromov (4b).** 
+- **Natrénovanie a vyhodnotenie klasifikátora s využitím rozhodovacích stromov (5b).** 
 Na trénovanie využite algoritmus dostupný v knižnici `scikit-learn` (`CART`). 
 Vizualizujte natrénované pravidlá. Vyhodnoťte natrénovaný rozhodovací strom pomocou metrík 
 správnosť (angl. *accuracy*), presnosť (angl. *precision*) a úplnosť (angl. *recall*). 
