@@ -9,12 +9,14 @@
 
 
 ## Podmienky na absolvovanie predmetu
-Projekt vo dvojiciach: **max. 50 bodov**
+Cvičenie a projekt vo dvojiciach: **max. 60 bodov**
 
-Práca na projekte a úlohách v rámci cvičení: 5 bodov
-1. fáza - prieskumná analýza (v 6. týždni): 12 bodov
-2. fáza - predspracovanie údajov (v 9. týždni): 18 bodov
-3. fáza - strojové učenie (v 12. týždni): 15 bodov
+Práca na úlohách v rámci cvičení: 5 bodov
+
+Projekt
+1. fáza - prieskumná analýza (v 6. týždni): 16 bodov
+2. fáza - predspracovanie údajov (v 9. týždni): 21 bodov
+3. fáza - strojové učenie (v 12. týždni): 18 bodov
 
 Skúška: **max. 50 bodov**
 
