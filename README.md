@@ -18,7 +18,7 @@ Projekt
 2. fáza - predspracovanie údajov (v 9. týždni): 21 bodov
 3. fáza - strojové učenie (v 12. týždni): 18 bodov
 
-Skúška: **max. 50 bodov**
+Skúška: **max. 40 bodov**
 
 ## Ďalšie podmienky pre úspešné absolvovanie predmetu:
 1. vypracovanie projektu v akceptovateľnej kvalite, jeho odovzdanie a prezentovanie podľa harmonogramu
