@@ -1,0 +1,16 @@
+numpy
+scipy
+sympy
+pandas
+pandasql
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+nltk
+gensim
+tensorflow
+keras
+h5py
+python-dateutil
