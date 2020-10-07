@@ -16,6 +16,8 @@ Projekt: organizácia v dvojiciach, zadanie projektu, Python a knižnice na prá
 
 ### 5. týždeň
 
+Prieskumná analýza s využitím štatistickej analýzy
+
 ### 6. týždeň
 
 Projekt: konzultácia + odovzdávanie 1. fázy projektu do systému AIS do **01.11.2020 23:59**
