@@ -2,7 +2,7 @@
 
 2. [Úvod do spracovania údajov v jazyku Python](https://docs.google.com/presentation/d/1p7AhpWEbXL39NVJqgpVW4_Hmcw-o0Sv9SJ6Scc9bzpk/edit#slide=id.g97a2241edc_1_0)
 
-3. Prieskumná analýza a vizualizácia údajov
+3. [Prieskumná analýza a vizualizácia údajov](https://docs.google.com/presentation/d/1gPvdBhNa9eOSf-4UmWbrq1tTE7YdomHaZlQ9lTZBMt0/edit?usp=sharing)
 
 4. Získavanie a prepájanie údajov
 
