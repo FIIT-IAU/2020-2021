@@ -26,8 +26,8 @@ Dátová sada predstavuje záznamy pacientov s podozrením na výskyt cukrovky.
 - osobné údaje o pacientoch
 - zdravotné údaje o pacientoch. 
 
-**Meranie**
 
+**Meranie**
 - Pacienti mali po určitú dobu (5-6 dní) zavedený prístroj na nepretržité meranie hladiny cukru a hladiny kyslíku v krvi. 
 - Tento prístroj meral tieto dve hodnoty v 30 sekundových intervaloch. 
 - Všetky merania boli agregované za celú dobu zberu dát pomocou rôznych agregačných funkcií: 
@@ -39,9 +39,8 @@ Nezávislým testom bola vyhodnotená skutočná prítomnosť ochorenia u pacien
 Táto je uložená v stĺpci `class` (názov sa môže líšiť pri niektorých dátových sadách) 
 a považujeme ju za **zaručene pravdivú**.
 
-**Atribúty**
 
-Dátová sada obsahuje atribúty:
+**Dátová sada obsahuje atribúty**
 - Agregované výsledky merania hladiny cukru v krvi pomocou 4 rôznych metrík
 - Agregované výsledky merania hladiny kyslíku v krvi pomocou 4 rôznych metrík
 - Informácie o  pacientovi ako vek, dátum narodenia, najvyššiu úroveň dosiahnutého vzdelania, 
@@ -61,6 +60,7 @@ Dátová sada obsahuje atribúty:
 V tejto fáze sa od Vás očakáva:
 
 **Základný opis dát spolu s ich charakteristikami (5b).** 
+
 Pre dosiahnutie plného počtu bodov uveďte 
 - počet záznamov, 
 - počet atribútov, 
@@ -80,16 +80,16 @@ Príkladom hypotézy v doméne (v závislosti od pridelenej dátovej sady) môž
 - Vami sformulované hypotézy overte vhodne zvoleným štatistickým testom.
 
 **Identifikácia problémov v dátach spolu s predpokladaným scenárom riešenia v ďalšej fáze (4b).** 
-Identifikujte, čo a ako budete musieť v rámci predspracovania vyriešiť v ďalšej fáze. 
-Medzi problémy, na ktoré môžete v rámci analýzy naraziť, patria napr.: 
+
+Identifikujte, čo a ako budete musieť v rámci predspracovania vyriešiť v ďalšej fáze, napr.: 
 - nevhodná štruktúra dát (dáta nie sú v tabuľkovej podobe alebo jedna entita je opísaná viacerými riadkami tabuľky)
 - duplicitné záznamy, resp. nejednoznačné mapovanie medzi záznamami
 - nejednotné formáty dát
 - chýbajúce hodnoty
 - vychýlené (odľahlé) hodnoty
-- a ďalšie, t. j. v dátach sa môžu nachádzať aj iné, tu nevymenované problémy.
+- v dátach sa môžu nachádzať aj iné, tu nevymenované problémy.
 
-V odovzdanej správe (`Jupyter Notebooku`) by ste tak mali vedieť zodpovedať na otázky:
+**V odovzdanej správe (`Jupyter Notebooku`) by ste tak mali vedieť zodpovedať na otázky**
 - Majú dáta vhodný formát pre ďalšie spracovanie? Ak nie, aké problémy sa v nich vyskytujú?
 - Sú niektoré atribúty medzi sebou závislé? Od ktorých (jednotlivých) atribútov závisí predikovaná premenná?
 - Sú v dátach chýbajúce hodnoty? Ako sú reprezentované? Ako plánujete riešiť problém chýbajúcich hodnôt 
