@@ -36,7 +36,7 @@ Projekt: konzultácia + odovzdávanie 2. fázy projektu do systému AIS do **22.
 
 ### 10. týždeň
 
-Vybrané metódy strojového učenia: Lineárna a logistická regresia, rozhodovacie stromy
+Vybrané metódy strojového učenia: lineárna a logistická regresia, rozhodovacie stromy
 
 ### 11. týždeň
 
