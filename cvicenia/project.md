@@ -212,4 +212,4 @@ na správnosť (angl. accuracy) klasifikácie. Ktorá stratégia sa ukázala ako
 
 ## References 
 - https://github.com/FIIT-IAU
-- [Intelligent Data Analysis at FIIT STU in 2019/2020](https://github.com/robom/IAU-2019-2020)
+- https://github.com/FIIT-IAU/IAU-2019-2020
