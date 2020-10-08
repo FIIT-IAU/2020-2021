@@ -24,6 +24,8 @@ Projekt: konzultácia + odovzdávanie 1. fázy projektu do systému AIS do **01.
 
 ### 7. týždeň
 
+Predspracovanie textových dát v Pythone
+
 ### 8. týždeň
 
 Projekt: konzultácia
@@ -33,6 +35,8 @@ Projekt: konzultácia
 Projekt: konzultácia + odovzdávanie 2. fázy projektu do systému AIS do **22.11.2020 23:59**
 
 ### 10. týždeň
+
+Vybrané metódy strojového učenia: Lineárna a logistická regresia, rozhodovacie stromy
 
 ### 11. týždeň
 
