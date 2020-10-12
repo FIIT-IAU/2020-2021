@@ -10,6 +10,7 @@ seaborn
 jupyterlab
 nltk
 gensim
+category_encoders
 tensorflow
 keras
 h5py
