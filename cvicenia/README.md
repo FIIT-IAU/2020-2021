@@ -24,7 +24,7 @@ Projekt: predspracovanie údajov + odovzdávanie 1. fázy projektu do systému A
 
 ### 7. týždeň
 
-Predspracovanie textových dát v Pythone
+Predspracovanie údajov + predspracovanie textových dát v Pythone
 
 ### 8. týždeň
 
