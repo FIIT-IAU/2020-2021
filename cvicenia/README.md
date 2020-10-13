@@ -20,7 +20,7 @@ Prieskumná analýza s využitím štatistickej analýzy
 
 ### 6. týždeň
 
-Projekt: konzultácia + odovzdávanie 1. fázy projektu do systému AIS do **01.11.2020 23:59**
+Projekt: predspracovanie údajov + odovzdávanie 1. fázy projektu do systému AIS do **01.11.2020 23:59**
 
 ### 7. týždeň
 
@@ -28,23 +28,23 @@ Predspracovanie textových dát v Pythone
 
 ### 8. týždeň
 
-Projekt: konzultácia
+Projekt: vyhodnotenie modelov + konzultácia k projektu
 
 ### 9. týždeň
 
-Projekt: konzultácia + odovzdávanie 2. fázy projektu do systému AIS do **22.11.2020 23:59**
+Projekt: odovzdávanie 2. fázy projektu do systému AIS do **22.11.2020 23:59**
 
 ### 10. týždeň
 
-Vybrané metódy strojového učenia: lineárna a logistická regresia, rozhodovacie stromy
+Vybrané metódy strojového učenia na modelovanie dát: lineárna a logistická regresia, rozhodovacie stromy
 
 ### 11. týždeň
 
-Projekt: konzultácia
+Projekt: optimalizácia + konzultácia k projektu
 
 ### 12. týždeň
 
-Projekt: konzultácia + odovzdávanie 3. fázy projektu do systému AIS do **13.12.2020 23:59**
+Projekt: odovzdávanie 3. fázy projektu do systému AIS do **13.12.2020 23:59**
 
 
 # Upozornenie
