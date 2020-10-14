@@ -20,7 +20,7 @@ Prieskumná analýza s využitím štatistickej analýzy
 
 ### 6. týždeň
 
-[Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): odovzdávanie 1. fázy projektu do systému AIS do **01.11.2020 23:59**
+[Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): odovzdávanie 1. fázy projektu + do systému AIS do **01.11.2020 23:59**
 
 ### 7. týždeň
 
@@ -32,7 +32,7 @@ Vyhodnotenie modelov + konzultácia k projektu
 
 ### 9. týždeň
 
-[Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): odovzdávanie 2. fázy projektu do systému AIS do **22.11.2020 23:59**
+[Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): odovzdávanie 2. fázy projektu + do systému AIS do **22.11.2020 23:59**
 
 ### 10. týždeň
 
@@ -44,7 +44,7 @@ Optimalizácia + konzultácia k projektu
 
 ### 12. týždeň
 
-[Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): odovzdávanie 3. fázy projektu do systému AIS do **13.12.2020 23:59**
+[Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): odovzdávanie 3. fázy projektu + do systému AIS do **13.12.2020 23:59**
 
 
 # Upozornenie
