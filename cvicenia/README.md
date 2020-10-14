@@ -12,7 +12,7 @@ Základy prieskumnej analýzy a vizualizácie údajov
 
 ### 4. týždeň
 
-Projekt: organizácia v dvojiciach, zadanie projektu, Python a knižnice na prácu s dátami
+[Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): organizácia v dvojiciach + zadanie projektu + knižnice na prácu s dátami
 
 ### 5. týždeň
 
@@ -20,7 +20,7 @@ Prieskumná analýza s využitím štatistickej analýzy
 
 ### 6. týždeň
 
-Projekt: predspracovanie údajov + odovzdávanie 1. fázy projektu do systému AIS do **01.11.2020 23:59**
+[Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): odovzdávanie 1. fázy projektu do systému AIS do **01.11.2020 23:59**
 
 ### 7. týždeň
 
@@ -28,11 +28,11 @@ Predspracovanie údajov + predspracovanie textových dát v Pythone
 
 ### 8. týždeň
 
-Projekt: vyhodnotenie modelov + konzultácia k projektu
+Vyhodnotenie modelov + konzultácia k projektu
 
 ### 9. týždeň
 
-Projekt: odovzdávanie 2. fázy projektu do systému AIS do **22.11.2020 23:59**
+[Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): odovzdávanie 2. fázy projektu do systému AIS do **22.11.2020 23:59**
 
 ### 10. týždeň
 
@@ -40,11 +40,11 @@ Vybrané metódy strojového učenia na modelovanie dát: lineárna a logistick�
 
 ### 11. týždeň
 
-Projekt: optimalizácia + konzultácia k projektu
+Optimalizácia + konzultácia k projektu
 
 ### 12. týždeň
 
-Projekt: odovzdávanie 3. fázy projektu do systému AIS do **13.12.2020 23:59**
+[Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): odovzdávanie 3. fázy projektu do systému AIS do **13.12.2020 23:59**
 
 
 # Upozornenie
