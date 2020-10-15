@@ -4,7 +4,7 @@
 
 3. [Prieskumná analýza a vizualizácia údajov](https://docs.google.com/presentation/d/1gPvdBhNa9eOSf-4UmWbrq1tTE7YdomHaZlQ9lTZBMt0/edit?usp=sharing)
 
-4. Získavanie a prepájanie údajov
+4. [Získavanie a prepájanie údajov](https://docs.google.com/presentation/d/1YhAR1yO0s_3r4PkfAlE5mRcUsipmjAWN77foZ07VJnE/edit#slide=id.p)
 
 5. Prieskumná analýza s využitím štatistickej analýzy
 
