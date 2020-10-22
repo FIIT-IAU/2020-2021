@@ -6,7 +6,7 @@
 
 4. [Získavanie a prepájanie údajov](https://docs.google.com/presentation/d/1YhAR1yO0s_3r4PkfAlE5mRcUsipmjAWN77foZ07VJnE/edit#slide=id.p)
 
-5. Prieskumná analýza s využitím štatistickej analýzy
+5. [Prieskumná analýza s využitím štatistickej analýzy](https://docs.google.com/presentation/d/1HO54c72EHcpQBIKXsMCCzAZlkYQKFM-TcIpgYWOmZQM/edit?usp=sharing)
 
 6. Čistenie a predspracovanie údajov
 
