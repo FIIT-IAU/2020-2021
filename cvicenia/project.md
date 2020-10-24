@@ -107,54 +107,46 @@ pre jednotlivé atribúty, resp. pozorovania? (Pre rôzne atribúty môže byť 
 Na základe identifikovaných problémov v dátach a návrhu ich riešenia v predchádzajúcej fáze 
 treba zrealizovať predspracovanie. Výsledkom by mala byť upravená dátová sada (vo formáte `csv`) 
 vo vhodnom tvare pre strojové učenie. 
+- To znamená, že jedno pozorovanie musí byť opísané jedným riadkom tabuľky; 
+- V tretej fáze budeme pracovať s algoritmom(-ami), ktorého(ých) implementácia podporuje len numerické dáta, 
+je možné že bude potrebné všetky nenumerické atribúty transformovať na numerické. 
+- Keď sa predspracovaním mohol zmeniť tvar a charakteristiky dát (počet atribútov, distribúcie hodnôt a pod.), 
+je možné že treba znovu zrealizovať podstatné časti prieskumnej analýzy a opakovaane podľa Vašej potreby. 
+- Významnú časť hodnotenia bude predstavovať znovupoužiteľnosť (replikovateľnosť) predspracovania.
 
-<!--
-To znamená, že jedno pozorovanie musí byť opísané jedným riadkom tabuľky; 
-zároveň, keďže v tretej fáze budeme pracovať s algoritmom, 
-ktorého implementácia podporuje len numerické dáta, 
-bude potrebné všetky nenumerické atribúty transformovať na numerické. 
-Napokon, keďže sa predspracovaním mohol zmeniť tvar a charakteristiky dát 
-(počet atribútov, distribúcie hodnôt a pod.), treba znovu zrealizovať podstatné časti prieskumnej analýzy. 
-Významnú časť hodnotenia bude predstavovať znovupoužiteľnosť (replikovateľnosť) predspracovania.
-
-V tejto fáze sa od Vás očakáva:
+V druhej fáze sa od Vás očakáva:
 
 - **Integrácia dát a prípadná deduplikácia záznamov (5b).** 
 Výsledkom by mala byť jednotná tabuľková reprezentácia dát, ktorá bude predstavovať vstup 
 pre ďalšie spracovanie a (v 3. fáze) strojové učenie.
 
 - **Realizácia predspracovania dát a ich zdokumentovanie (6b).** 
-  - Pri riešení chýbajúcich hodnôt vyskúšajte rôzne stratégie 
-  (očakáva sa vyskúšanie minimálne dvoch stratégií, pričom aspoň jedna z nich 
-  musí byť zvolená z posledných troch menovaných):
-    - nahradenie chýbajúcej hodnoty mediánom
-    - nahradenie chýbajúcej hodnoty priemerom
-    - nahradenie chýbajúcej hodnoty pomerom ku korelovanému atribútu
-    - nahradenie chýbajúcej hodnoty priemerom segmentu
-    - nahradenie chýbajúcej hodnoty pomocou lineárnej regresie
-    - nahradenie chýbajúcej hodnoty pomocou algoritmu k-najbližších susedov
-  - Podobne postupujte aj pri riešení vychýlených (odľahlých) hodnôt, pričom vyskúšajte aspoň dve  zo stratégií uvedených nižšie:
+  - Pri riešení chýbajúcich hodnôt vyskúšajte rôzne stratégie (minimálne 2 stratégií):
+    - nahradenie chýbajúcej hodnoty mediánom, priemerom alebo pomerom ku korelovanému atribútu
+    - nahradenie chýbajúcej hodnoty priemerom segmentu, pomocou jednoduchej lineárnej regresie 
+    	alebo k-najbližších susedov (kNN)
+  - Podobne postupujte aj pri riešení vychýlených (odľahlých) hodnôt: 
     - odstránenie vychýlených (odľahlých) pozorovaní
     - nahradenie vychýlenej hodnoty hraničnými hodnotami rozdelenia (5 percentilom, resp. 95 percentilom)
-    - transformácia atribútu s vychýlenými hodnotami pomocou zvolenej funkcie (logaritmus, odmocnina a pod.)
+    - transformácia atribútu s vychýlenými hodnotami pomocou napr. Power transform (logaritmus, odmocnina a pod.)
 
 - **Znovupoužiteľnosť predspracovania (5b).** 
-Upravte váš kód realizujúci predspracovanie trénovacej množiny tak, 
-aby ho bolo možné bez ďalších úprav znovupoužiť na predspracovanie validačnej, 
-resp. testovacej množiny (ich predspracovanie sa pritom v tej fáze nevyžaduje, 
-odovzdaný kód v `Jupyter Notebooku` na to však musí byť pripravený). 
-Očakáva sa preto, že bude predspracovanie realizované pomocou funkcií alebo využijete možnosti 
-knižnice `sklearn.pipeline`. Častým problémom býva využitie informácií, 
+  - Upravte váš kód realizujúci predspracovanie trénovacej množiny tak, aby ho bolo možné bez ďalších úprav 
+  	znovupoužiť na predspracovanie validačnej/testovacej množiny 
+  - Očakáva sa preto, že bude predspracovanie realizované pomocou funkcií 
+  - Očakáva sa aj využitie možnosti `sklearn.pipeline`. 
+<!--  
+  Častým problémom býva využitie informácií, 
 ktoré nie sú dostupné v čase zbierania údajov (napr. štatistické informácie o celej testovacej sade 
 pri spracovaní trénovacích údajov alebo aj pri spracovaní jednotlivých pozorovaní z testovacej sady), 
 čím môžete do trénovania zaniesť znalosť z validačnej alebo testovacej množiny; 
 vaše riešenie toto musí ošetrovať.
+//-->
 
 - **Opätovná realizácia podstatných častí prieskumnej analýzy (5b).** 
-V rámci nej by ste mali vedieť zodpovedať na otázku, ako sa zmenili distribúcie hodnôt 
-po realizácii krokov predspracovania (t. j. treba ju realizovať len tam, 
-kde vaším predspracovaním došlo k nejakým zmenám).
--->
+  - Očakáva sa že dokumentujete zmeny distribúcie hodnôt po realizácii predspracovania 
+  - Následne dokumentujete LEN zmeny v prieskumnej analýze 
+
 
 > Správa sa odovzdáva v 9. týždni semestra na cvičení.
 > Dvojica svojmu cvičiacemu odprezentuje vykonané predspracovanie v `Jupyter Notebooku`). 
@@ -170,35 +162,48 @@ pomocou techniky strojového učenia.
 <!--
 V tomto projekte sa zameriame na rozhodovacie stromy vzhľadom na ich jednoduchú interpretovateľnosť.
 V tejto fáze dostanete nový dataset, na ktorom oddemonštrujete znovupoužiteľnosť vami realizovaného predspracovania. 
-
-Vami natrénované klasifikátory budú porovnané medzi sebou; 
-uvidíte tak, ako dobre ste sa umiestnili v rámci vášho cvičenia, resp. celého predmetu.
+-->
 
 V poslednej fáze sa od Vás očakáva:
+<!--
+- Pomôcka: ML algoritmus `scikit-learn` (`CART`)
+//-->
 
-- **Predspracovanie nového datasetu vami realizovaným postupom predspracovania a opis prípadných zmien (3b).** 
+- **Predspracovanie validačného datasetu Vami realizovaným postupom predspracovania a opis prípadných zmien (3b).** 
+<!--
 Spustite postup predspracovania realizovaný v predchádzajúcej fáze nad novým datasetom. 
 Nový dataset bude mať rovnakú štruktúru ako váš pôvodný, 
 nebudú sa v ňom však možno nachádzať niektoré problémy (nové vám nepribudnú). 
 Ak si spustenie predspracovania vyžiada zmeny v kóde, opíšte ich.
+-->
 
+- **Vytvorenie a vyhodnotenie pravidiel pre klasifikáciu (4b).** 
+<!--
 - **Manuálne vytvorenie a vyhodnotenie rozhodovacích pravidiel pre klasifikáciu (4b).** 
 Vyskúšajte jednoduché pravidlá zahŕňajúce jeden atribút, ale aj komplikovanejšie zahŕňajúce viacero atribútov 
 (ich kombinácie). Pravidlá by v tomto kroku mali byť vytvorené manuálne na základe pozorovaných závislostí v dátach. 
 Pravidlá (manuálne vytvorené klasifikátory) vyhodnoťte pomocou metrík 
 správnosť (angl. *accuracy*), presnosť (angl. *precision*) a úplnosť (angl. *recall*). 
+-->
 
+- **Natrénovanie a vyhodnotenie klasifikátora (5b).** 
+<!--
 - **Natrénovanie a vyhodnotenie klasifikátora s využitím rozhodovacích stromov (5b).** 
-Na trénovanie využite algoritmus dostupný v knižnici `scikit-learn` (`CART`). 
+Na trénovanie využite algoritmus dostupný v knižnici . 
 Vizualizujte natrénované pravidlá. Vyhodnoťte natrénovaný rozhodovací strom pomocou metrík 
 správnosť (angl. *accuracy*), presnosť (angl. *precision*) a úplnosť (angl. *recall*). 
 Porovnajte natrénovaný klasifikátor s vašimi manuálne vytvorenými pravidlami z druhého kroku. 
+-->
 
 - **Optimalizácia hyperparametrov (4b).** 
+<!--
 Preskúmajte hyperparametre klasifikačného algoritmu `CART` a vyskúšajte ich rôzne nastavenie tak, 
 aby ste minimalizovali preučenie. Vysvetlite, čo jednotlivé hyperparametre robia. 
 Pri nastavovaní hyperparametrov algoritmu využite 10-násobnú krížovú validáciu na trénovacej množine.
+-->
 
+- **Vyhodnotenie vplyvu zvolenej stratégie riešenia na správnosť klasifikácie (2b).** 
+<!--
 - **Vyhodnotenie vplyvu zvolenej stratégie riešenia chýbajúcich hodnôt na správnosť klasifikácie (2b).** 
 Zistite, či použitie zvolených stratégií riešenia chýbajúcich hodnôt vplýva 
 na správnosť (angl. accuracy) klasifikácie. Ktorá stratégia sa ukázala ako vhodnejšia pre daný problém?
