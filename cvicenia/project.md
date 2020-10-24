@@ -116,12 +116,12 @@ je možné že treba znovu zrealizovať podstatné časti prieskumnej analýzy a
 
 V druhej fáze sa od Vás očakáva:
 
-- **Integrácia dát a prípadná deduplikácia záznamov (5b).** 
+**Integrácia dát a prípadná deduplikácia záznamov (5b).** 
 
 Výsledkom by mala byť jednotná tabuľková reprezentácia dát, ktorá bude predstavovať vstup 
 pre ďalšie spracovanie a (v 3. fáze) strojové učenie.
 
-- **Realizácia predspracovania dát a ich zdokumentovanie (6b).** 
+**Realizácia predspracovania dát a ich zdokumentovanie (6b).** 
   - Pri riešení chýbajúcich hodnôt vyskúšajte rôzne stratégie (minimálne 2 stratégií):
     - nahradenie chýbajúcej hodnoty mediánom, priemerom alebo pomerom ku korelovanému atribútu
     - nahradenie chýbajúcej hodnoty priemerom segmentu, pomocou jednoduchej lineárnej regresie 
@@ -131,7 +131,7 @@ pre ďalšie spracovanie a (v 3. fáze) strojové učenie.
     - nahradenie vychýlenej hodnoty hraničnými hodnotami rozdelenia (5 percentilom, resp. 95 percentilom)
     - transformácia atribútu s vychýlenými hodnotami pomocou napr. Power transform (logaritmus, odmocnina a pod.)
 
-- **Znovupoužiteľnosť predspracovania (5b).** 
+**Znovupoužiteľnosť predspracovania (5b).** 
   - Upravte váš kód realizujúci predspracovanie trénovacej množiny tak, aby ho bolo možné bez ďalších úprav 
   	znovupoužiť na predspracovanie validačnej/testovacej množiny 
   - Očakáva sa preto, že bude predspracovanie realizované pomocou funkcií 
@@ -144,7 +144,7 @@ pri spracovaní trénovacích údajov alebo aj pri spracovaní jednotlivých poz
 vaše riešenie toto musí ošetrovať.
 //-->
 
-- **Opätovná realizácia podstatných častí prieskumnej analýzy (5b).** 
+**Opätovná realizácia podstatných častí prieskumnej analýzy (5b).** 
   - Očakáva sa že dokumentujete zmeny distribúcie hodnôt po realizácii predspracovania 
   - Následne dokumentujete LEN zmeny v prieskumnej analýze 
 
