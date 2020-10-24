@@ -122,19 +122,18 @@ Výsledkom by mala byť jednotná tabuľková reprezentácia dát, ktorá bude p
 pre ďalšie spracovanie a (v 3. fáze) strojové učenie.
 
 **Realizácia predspracovania dát a ich zdokumentovanie (6b).** 
-  - Pri riešení chýbajúcich hodnôt vyskúšajte rôzne stratégie (minimálne 2 stratégií):
+  - Pri riešení chýbajúcich hodnôt vyskúšajte rôzne stratégie (minimálne 1 stratégiu z 2 nasledujúcich podskupín):
     - nahradenie chýbajúcej hodnoty mediánom, priemerom alebo pomerom ku korelovanému atribútu
     - nahradenie chýbajúcej hodnoty priemerom segmentu, pomocou jednoduchej lineárnej regresie 
     	alebo k-najbližších susedov (kNN)
-  - Podobne postupujte aj pri riešení vychýlených (odľahlých) hodnôt: 
+  - Podobne postupujte aj pri riešení vychýlených hodnôt (outlier): 
     - odstránenie vychýlených (odľahlých) pozorovaní
     - nahradenie vychýlenej hodnoty hraničnými hodnotami rozdelenia (5 percentilom, resp. 95 percentilom)
-    - transformácia atribútu s vychýlenými hodnotami pomocou napr. Power transform (logaritmus, odmocnina a pod.)
+    - transformácia atribútu/ov pomocou Power transform (logaritmus, odmocnina a pod.)
 
 **Znovupoužiteľnosť predspracovania (5b).** 
   - Upravte váš kód realizujúci predspracovanie trénovacej množiny tak, aby ho bolo možné bez ďalších úprav 
-  	znovupoužiť na predspracovanie validačnej/testovacej množiny 
-  - Očakáva sa preto, že bude predspracovanie realizované pomocou funkcií 
+  	znovupoužiť na predspracovanie validačnej/testovacej množiny (napr. pomocou funkcie/í) 
   - Očakáva sa aj využitie možnosti `sklearn.pipeline`. 
 <!--  
   Častým problémom býva využitie informácií, 
