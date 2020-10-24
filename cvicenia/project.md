@@ -55,7 +55,7 @@ a považujeme ju za **zaručene pravdivú**.
 	(formáty dát, chýbajúce, nezmyselné alebo vychýlené hodnoty a pod.).
 
 
-## Prieskumná analýza (max. 16b)
+## Fáza 1: Prieskumná analýza (max. 16b)
 
 V tejto fáze sa od Vás očakáva:
 
@@ -102,7 +102,7 @@ pre jednotlivé atribúty, resp. pozorovania? (Pre rôzne atribúty môže byť 
 > Následne správu elektronicky odovzdá jeden člen z  dvojice do systému AIS do **nedele 01.11.2020 23:59**.
 
 
-## Predspracovanie (max. 21b)
+## Fáza 2: Predspracovanie (max. 21b)
 
 Na základe identifikovaných problémov v dátach a návrhu ich riešenia v predchádzajúcej fáze 
 treba zrealizovať predspracovanie. Výsledkom by mala byť upravená dátová sada (vo formáte `csv`) 
@@ -153,7 +153,7 @@ vaše riešenie toto musí ošetrovať.
 > Následne správu elektronicky odovzdá jeden člen z  dvojice do systému AIS do **nedele 22.11.2020 23:59**.
 
 
-## Strojové učenie (max. 18b)
+## Fáza 3: Strojové učenie (max. 18b)
 
 Pri dátovej analýze nemusí byť naším cieľom získať len znalosti obsiahnuté v aktuálnych dátach, 
 ale aj natrénovať model, ktorý bude schopný robiť rozumné predikcie pre nové pozorovania 
