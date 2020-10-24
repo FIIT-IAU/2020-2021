@@ -111,12 +111,13 @@ vo vhodnom tvare pre strojové učenie.
 - V tretej fáze budeme pracovať s algoritmom(-ami), ktorého(ých) implementácia podporuje len numerické dáta, 
 je možné že bude potrebné všetky nenumerické atribúty transformovať na numerické. 
 - Keď sa predspracovaním mohol zmeniť tvar a charakteristiky dát (počet atribútov, distribúcie hodnôt a pod.), 
-je možné že treba znovu zrealizovať podstatné časti prieskumnej analýzy a opakovaane podľa Vašej potreby. 
+je možné že treba znovu zrealizovať podstatné časti prieskumnej analýzy a opakovane podľa Vašej potreby. 
 - Významnú časť hodnotenia bude predstavovať znovupoužiteľnosť (replikovateľnosť) predspracovania.
 
 V druhej fáze sa od Vás očakáva:
 
 - **Integrácia dát a prípadná deduplikácia záznamov (5b).** 
+
 Výsledkom by mala byť jednotná tabuľková reprezentácia dát, ktorá bude predstavovať vstup 
 pre ďalšie spracovanie a (v 3. fáze) strojové učenie.
 
