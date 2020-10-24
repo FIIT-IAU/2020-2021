@@ -129,7 +129,7 @@ pre ďalšie spracovanie a (v 3. fáze) strojové učenie.
   - Podobne postupujte aj pri riešení vychýlených hodnôt (outlier): 
     - odstránenie vychýlených (odľahlých) pozorovaní
     - nahradenie vychýlenej hodnoty hraničnými hodnotami rozdelenia (5 percentilom, resp. 95 percentilom)
-    - transformácia atribútu/ov pomocou Power transform (logaritmus, odmocnina a pod.)
+  - Transformácia atribútu/ov pomocou Power transform (logaritmus, odmocnina a pod.)
 
 **Znovupoužiteľnosť predspracovania (5b).** 
   - Upravte váš kód realizujúci predspracovanie trénovacej množiny tak, aby ho bolo možné bez ďalších úprav 
