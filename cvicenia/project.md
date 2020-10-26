@@ -55,7 +55,7 @@ a považujeme ju za **zaručene pravdivú**.
 	(formáty dát, chýbajúce, nezmyselné alebo vychýlené hodnoty a pod.).
 
 
-## Prieskumná analýza (max. 16b)
+## Fáza 1: Prieskumná analýza (max. 16b)
 
 V tejto fáze sa od Vás očakáva:
 
@@ -102,7 +102,7 @@ pre jednotlivé atribúty, resp. pozorovania? (Pre rôzne atribúty môže byť 
 > Následne správu elektronicky odovzdá jeden člen z  dvojice do systému AIS do **nedele 01.11.2020 23:59**.
 
 
-## Predspracovanie (max. 21b)
+## Fáza 2: Predspracovanie (max. 21b)
 
 Na základe identifikovaných problémov v dátach a návrhu ich riešenia v predchádzajúcej fáze 
 treba zrealizovať predspracovanie. Výsledkom by mala byť upravená dátová sada (vo formáte `csv`) 
@@ -111,29 +111,29 @@ vo vhodnom tvare pre strojové učenie.
 - V tretej fáze budeme pracovať s algoritmom(-ami), ktorého(ých) implementácia podporuje len numerické dáta, 
 je možné že bude potrebné všetky nenumerické atribúty transformovať na numerické. 
 - Keď sa predspracovaním mohol zmeniť tvar a charakteristiky dát (počet atribútov, distribúcie hodnôt a pod.), 
-je možné že treba znovu zrealizovať podstatné časti prieskumnej analýzy a opakovaane podľa Vašej potreby. 
+je možné že treba znovu zrealizovať podstatné časti prieskumnej analýzy a opakovane podľa Vašej potreby. 
 - Významnú časť hodnotenia bude predstavovať znovupoužiteľnosť (replikovateľnosť) predspracovania.
 
 V druhej fáze sa od Vás očakáva:
 
-- **Integrácia dát a prípadná deduplikácia záznamov (5b).** 
+**Integrácia dát a prípadná deduplikácia záznamov (5b).** 
+
 Výsledkom by mala byť jednotná tabuľková reprezentácia dát, ktorá bude predstavovať vstup 
 pre ďalšie spracovanie a (v 3. fáze) strojové učenie.
 
-- **Realizácia predspracovania dát a ich zdokumentovanie (6b).** 
-  - Pri riešení chýbajúcich hodnôt vyskúšajte rôzne stratégie (minimálne 2 stratégií):
+**Realizácia predspracovania dát a ich zdokumentovanie (6b).** 
+  - Pri riešení chýbajúcich hodnôt vyskúšajte rôzne stratégie (minimálne 1 stratégiu z 2 nasledujúcich podskupín):
     - nahradenie chýbajúcej hodnoty mediánom, priemerom alebo pomerom ku korelovanému atribútu
     - nahradenie chýbajúcej hodnoty priemerom segmentu, pomocou jednoduchej lineárnej regresie 
     	alebo k-najbližších susedov (kNN)
-  - Podobne postupujte aj pri riešení vychýlených (odľahlých) hodnôt: 
+  - Podobne postupujte aj pri riešení vychýlených hodnôt (outlier): 
     - odstránenie vychýlených (odľahlých) pozorovaní
     - nahradenie vychýlenej hodnoty hraničnými hodnotami rozdelenia (5 percentilom, resp. 95 percentilom)
-    - transformácia atribútu s vychýlenými hodnotami pomocou napr. Power transform (logaritmus, odmocnina a pod.)
+  - Transformácia atribútu/ov pomocou Power transform (logaritmus, odmocnina a pod.)
 
-- **Znovupoužiteľnosť predspracovania (5b).** 
+**Znovupoužiteľnosť predspracovania (5b).** 
   - Upravte váš kód realizujúci predspracovanie trénovacej množiny tak, aby ho bolo možné bez ďalších úprav 
-  	znovupoužiť na predspracovanie validačnej/testovacej množiny 
-  - Očakáva sa preto, že bude predspracovanie realizované pomocou funkcií 
+  	znovupoužiť na predspracovanie validačnej/testovacej množiny (napr. pomocou funkcie/í) 
   - Očakáva sa aj využitie možnosti `sklearn.pipeline`. 
 <!--  
   Častým problémom býva využitie informácií, 
@@ -143,7 +143,7 @@ pri spracovaní trénovacích údajov alebo aj pri spracovaní jednotlivých poz
 vaše riešenie toto musí ošetrovať.
 //-->
 
-- **Opätovná realizácia podstatných častí prieskumnej analýzy (5b).** 
+**Opätovná realizácia podstatných častí prieskumnej analýzy (5b).** 
   - Očakáva sa že dokumentujete zmeny distribúcie hodnôt po realizácii predspracovania 
   - Následne dokumentujete LEN zmeny v prieskumnej analýze 
 
@@ -153,7 +153,7 @@ vaše riešenie toto musí ošetrovať.
 > Následne správu elektronicky odovzdá jeden člen z  dvojice do systému AIS do **nedele 22.11.2020 23:59**.
 
 
-## Strojové učenie (max. 18b)
+## Fáza 3: Strojové učenie (max. 18b)
 
 Pri dátovej analýze nemusí byť naším cieľom získať len znalosti obsiahnuté v aktuálnych dátach, 
 ale aj natrénovať model, ktorý bude schopný robiť rozumné predikcie pre nové pozorovania 
