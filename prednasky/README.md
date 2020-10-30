@@ -8,7 +8,7 @@
 
 5. [Prieskumná analýza s využitím štatistickej analýzy](https://docs.google.com/presentation/d/1HO54c72EHcpQBIKXsMCCzAZlkYQKFM-TcIpgYWOmZQM/edit?usp=sharing)
 
-6. Čistenie a predspracovanie údajov
+6. [Čistenie a predspracovanie údajov](https://docs.google.com/presentation/d/1cfbf-hoOWshFUbNqiuOMhwL5OaZFUmNyGCB0ukVJv2w/edit?usp=sharing)
 
 7. Predspracovanie textových dát
 
