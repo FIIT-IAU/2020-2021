@@ -4,11 +4,11 @@
 
 [Sylabus predmetu IAU_B - Intelligent Data Analysis (FIIT - WS 2020/2021)](https://is.stuba.sk/katalog/syllabus.pl?odkud=;zobrazit_sklad=0;zobrazit_obdobi=0;obdobi=;predmet=354704;typ=1;jazyk=3;vystup=1;lang=sk)
 
-## [Prednášky](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky)
+## [Prednášky](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky) (Lectures)
 
 
 
-## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia)
+## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia) (Exercises)
 
 
 
@@ -44,7 +44,7 @@ Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a 
 
 Za samozrejmosť sa považuje dodržanie pravidiel akademickej korektnosti a čestnosti. Akékoľvek vydávanie cudzej práce za vlastnú je neakceptovateľné, a to v akomkoľvek rozsahu. Ak sa ho dopustíte, automaticky to znamená neúspešné ukončenie predmetu (FX) a podnet na disciplinárnu komisiu.
 
-Literatúry
+Literatúry (Literature)
 ------------
 
 - O'Neil, C. and Schutt, R., 2014. Doing data science: Straight talk from the frontline. O'Reilly Media, Inc., ISBN 978-1449358655
@@ -58,7 +58,7 @@ Literatúry
 - Vanderplas, J., Python Data Science Handbook: Essential Tools for Working with Data. O'Reilly Media, 2016. 541 s. ISBN 978-1-4919-1205-8.
 
 
-Ďalšie čítanie
+Ďalšie čítanie (References)
 ------------
 - Nguyen G. et al.: [Machine Learning and Deep Learning frameworks and libraries for large-scale data mining: a survey](https://doi.org/10.1007/s10462-018-09679-z). Artificial Intelligence Review, Springer Nature, 2019, ISSN 0269-2821, DOI 10.1007/s10462-018-09679-z.
 
