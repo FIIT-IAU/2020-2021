@@ -10,7 +10,7 @@
 
 6. [Čistenie a predspracovanie údajov](https://docs.google.com/presentation/d/1cfbf-hoOWshFUbNqiuOMhwL5OaZFUmNyGCB0ukVJv2w/edit?usp=sharing) (Data cleaning and data preprocessing)
 
-7. Predspracovanie textových dát (Preprocessing of textual data)
+7. [Predspracovanie textových dát](https://docs.google.com/presentation/d/1Icrm8pmI3MIpSPYns2c4HZ9p_D7jJPlmBHerG8CvVZ0/edit?usp=sharing) (Preprocessing of textual data)
 
 8. Vyhodnocovanie a výber modelov (Performance evaluation and model selection)
 
