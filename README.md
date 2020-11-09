@@ -1,4 +1,4 @@
-#  Intelligent Data Analysis - Inteligentná analýza údajov
+#  Inteligentná analýza údajov - Intelligent Data Analysis
 
 [Sylabus predmetu IAU_B - Inteligentná analýza údajov (FIIT - ZS 2020/2021)](https://is.stuba.sk/katalog/syllabus.pl?predmet=354704;lang=sk)
 
