@@ -51,7 +51,7 @@ Optimalizácia + konzultácia k projektu
 
 > Odovzdávanie správy projektu sa realizuje v 6. týždni (1. fáza), 9. týždni (2. fáza) a 12. týždni (3. fáza) semestra na cvičení. 
 > 
-> Dvojica svojmu cvičiacemu odprezentuje výsledky v Jupyter Notebooku. Následne správu elektronicky odovzdá jeden člen z dvojice do systému AIS do **01.11.2020 23:59** (1. fáza), **22.11.2020 23:59** (2. fáza) a **13.12.2020 23:59** (2. fáza).
+> Dvojica svojmu cvičiacemu odprezentuje výsledky v Jupyter Notebooku. Následne správu elektronicky odovzdá jeden člen z dvojice do systému AIS do **01.11.2020 23:59** (1. fáza), **22.11.2020 23:59** (2. fáza) a **13.12.2020 23:59** (3. fáza).
 > 
 > V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať do 7 dní s **50% penalizáciou**. 
 > Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
