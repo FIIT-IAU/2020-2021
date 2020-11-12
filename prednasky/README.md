@@ -12,7 +12,7 @@
 
 7. [Predspracovanie textových dát](https://docs.google.com/presentation/d/1Icrm8pmI3MIpSPYns2c4HZ9p_D7jJPlmBHerG8CvVZ0/edit?usp=sharing) (Preprocessing of textual data)
 
-8. Vyhodnocovanie a výber modelov (Performance evaluation and model selection)
+8. [Vyhodnocovanie a výber modelov](https://docs.google.com/presentation/d/19szdcF51u2sTYQa_lYIrYu6YXiyXo_oXMfi-xV9JpQY/edit?usp=sharing) (Performance evaluation and model selection)
 
 9. Lineárna a logistická regresia (Linear and logistic regression)
 
