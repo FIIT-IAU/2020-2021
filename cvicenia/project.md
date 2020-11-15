@@ -174,19 +174,17 @@ nebudú sa v ňom však možno nachádzať niektoré problémy (nové vám nepri
 -->
 
 
-***Manuálne vytvorenie a vyhodnotenie rozhodovacích pravidiel pre klasifikáciu (4b).** 
+**Manuálne vytvorenie a vyhodnotenie rozhodovacích pravidiel pre klasifikáciu (4b).** 
   - Vyskúšajte jednoduché pravidlá zahŕňajúce jeden atribút pre CART, 
     ale aj komplikovanejšie zahŕňajúce viacero atribútov (ich kombinácie). 
   - Pravidlá by v tomto kroku mali byť vytvorené manuálne na základe pozorovaných závislostí v dátach. 
-  - Pravidlá (manuálne vytvorené klasifikátory) vyhodnoťte pomocou metrík 
-    správnosť (angl. *accuracy*), presnosť (angl. *precision*) a úplnosť (angl. *recall*). 
+  - Pravidlá (manuálne vytvorené klasifikátory) vyhodnoťte pomocou metrík *accuracy*, *precision* a *recall*. 
 
 
 **Natrénovanie a vyhodnotenie klasifikátora s využitím rozhodovacích stromov (5b).** 
   - Na trénovanie využite stromový algoritmus (resp. algoritmy) dostupný/é v scikit-learn. 
   - Vizualizujte natrénované pravidlá. 
-  - Vyhodnoťte natrénovaný rozhodovací strom pomocou metrík 
-    správnosť (angl. *accuracy*), presnosť (angl. *precision*) a úplnosť (angl. *recall*). 
+  - Vyhodnoťte natrénovaný rozhodovací strom pomocou metrík *accuracy*, *precision* a *recall* 
   - Porovnajte natrénovaný klasifikátor s vašimi manuálne vytvorenými pravidlami z druhého kroku. 
 
 
