@@ -167,12 +167,12 @@ Oddemonštrujete znovupoužiteľnosť vami realizovaného predspracovania.
 - **Predspracovanie validačného datasetu Vami realizovaným postupom predspracovania a opis prípadných zmien (3b).** 
 
 Spustite postup predspracovania realizovaný v predchádzajúcej fáze nad novým datasetom. 
-Nový dataset bude mať rovnakú štruktúru ako váš pôvodný, 
+Nový dataset bude mať rovnakú štruktúru ako váš pôvodný. 
+Ak si spustenie predspracovania vyžiada zmeny v kóde, opíšte ich. 
+Zabezpečíte aby postup predspracovanie funguje rovnako na obidve datasety.
 <!--
 nebudú sa v ňom však možno nachádzať niektoré problémy (nové vám nepribudnú). 
 -->
-Ak si spustenie predspracovania vyžiada zmeny v kóde, opíšte ich. 
-Zabezpečíte aby postup predspracovanie funguje rovnako na obidve datasety.
 
 
 - **Manuálne vytvorenie a vyhodnotenie rozhodovacích pravidiel pre klasifikáciu (4b).** 
