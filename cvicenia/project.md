@@ -159,50 +159,51 @@ Pri dátovej analýze nemusí byť naším cieľom získať len znalosti obsiahn
 ale aj natrénovať model, ktorý bude schopný robiť rozumné predikcie pre nové pozorovania 
 pomocou techniky strojového učenia. 
 
-<!--
 V tomto projekte sa zameriame na rozhodovacie stromy vzhľadom na ich jednoduchú interpretovateľnosť.
-V tejto fáze dostanete nový dataset, na ktorom oddemonštrujete znovupoužiteľnosť vami realizovaného predspracovania. 
--->
+V tejto fáze použite všetky data, ktoré ste dostali. 
+Oddemonštrujete znovupoužiteľnosť vami realizovaného predspracovania. 
 
-V poslednej fáze sa od Vás očakáva:
-<!--
-- Pomôcka: ML algoritmus `scikit-learn` (`CART`)
-//-->
 
 - **Predspracovanie validačného datasetu Vami realizovaným postupom predspracovania a opis prípadných zmien (3b).** 
-<!--
+
 Spustite postup predspracovania realizovaný v predchádzajúcej fáze nad novým datasetom. 
 Nový dataset bude mať rovnakú štruktúru ako váš pôvodný, 
-nebudú sa v ňom však možno nachádzať niektoré problémy (nové vám nepribudnú). 
-Ak si spustenie predspracovania vyžiada zmeny v kóde, opíšte ich.
--->
-
-- **Vytvorenie a vyhodnotenie pravidiel pre klasifikáciu (4b).** 
 <!--
+nebudú sa v ňom však možno nachádzať niektoré problémy (nové vám nepribudnú). 
+-->
+Ak si spustenie predspracovania vyžiada zmeny v kóde, opíšte ich. 
+Zabezpečíte aby postup predspracovanie funguje rovnako na obidve datasety.
+
+
 - **Manuálne vytvorenie a vyhodnotenie rozhodovacích pravidiel pre klasifikáciu (4b).** 
-Vyskúšajte jednoduché pravidlá zahŕňajúce jeden atribút, ale aj komplikovanejšie zahŕňajúce viacero atribútov 
-(ich kombinácie). Pravidlá by v tomto kroku mali byť vytvorené manuálne na základe pozorovaných závislostí v dátach. 
+Vyskúšajte jednoduché pravidlá zahŕňajúce jeden atribút pre CART, 
+ale aj komplikovanejšie zahŕňajúce viacero atribútov (ich kombinácie). 
+Pravidlá by v tomto kroku mali byť vytvorené manuálne na základe pozorovaných závislostí v dátach. 
 Pravidlá (manuálne vytvorené klasifikátory) vyhodnoťte pomocou metrík 
 správnosť (angl. *accuracy*), presnosť (angl. *precision*) a úplnosť (angl. *recall*). 
--->
 
-- **Natrénovanie a vyhodnotenie klasifikátora (5b).** 
-<!--
+
 - **Natrénovanie a vyhodnotenie klasifikátora s využitím rozhodovacích stromov (5b).** 
-Na trénovanie využite algoritmus dostupný v knižnici . 
-Vizualizujte natrénované pravidlá. Vyhodnoťte natrénovaný rozhodovací strom pomocou metrík 
+Na trénovanie využite stromový algoritmus (resp. algoritmy) dostupný/é v scikit-learn. 
+Vizualizujte natrénované pravidlá. 
+Vyhodnoťte natrénovaný rozhodovací strom pomocou metrík 
 správnosť (angl. *accuracy*), presnosť (angl. *precision*) a úplnosť (angl. *recall*). 
 Porovnajte natrénovaný klasifikátor s vašimi manuálne vytvorenými pravidlami z druhého kroku. 
--->
+
 
 - **Optimalizácia hyperparametrov (4b).** 
-<!--
-Preskúmajte hyperparametre klasifikačného algoritmu `CART` a vyskúšajte ich rôzne nastavenie tak, 
-aby ste minimalizovali preučenie. Vysvetlite, čo jednotlivé hyperparametre robia. 
+Preskúmajte hyperparametre Vášho zvoleného klasifikačného algoritmu a vyskúšajte ich rôzne nastavenie tak, 
+aby ste minimalizovali overfitting (preučenie) a optimalizovali výsledok. 
+Vysvetlite, čo jednotlivé hyperparametre robia. 
 Pri nastavovaní hyperparametrov algoritmu využite 10-násobnú krížovú validáciu na trénovacej množine.
--->
+
 
 - **Vyhodnotenie vplyvu zvolenej stratégie riešenia na správnosť klasifikácie (2b).** 
+Okrem scikit-learn, stretaváme aj s inými knižniciami. 
+Preto dátovú transformáciu vieme spraviť aj v mimo scikit-learn.
+Manuálne zlučíte trénovaciu a validačnú množinu dát pre strojové učenie (2 csv súbory). 
+Výsledný súbor (1 csv súbor) použite na manuálnu 10-násobnú krížovú validáciu.
+
 <!--
 - **Vyhodnotenie vplyvu zvolenej stratégie riešenia chýbajúcich hodnôt na správnosť klasifikácie (2b).** 
 Zistite, či použitie zvolených stratégií riešenia chýbajúcich hodnôt vplýva 
