@@ -195,7 +195,7 @@ nebudú sa v ňom však možno nachádzať niektoré problémy (nové vám nepri
   - Pri nastavovaní hyperparametrov algoritmu využite 10-násobnú krížovú validáciu na trénovacej množine.
 
 
-***Vyhodnotenie vplyvu zvolenej stratégie riešenia na správnosť klasifikácie (2b).** 
+**Vyhodnotenie vplyvu zvolenej stratégie riešenia na správnosť klasifikácie (2b).** 
   - Okrem scikit-learn, stretaváme aj s inými knižniciami. 
     Preto dátovú transformáciu vieme spraviť aj v mimo scikit-learn.
   - Manuálne zlučíte trénovaciu a validačnú množinu dát pre strojové učenie (2 csv súbory). 
