@@ -196,15 +196,18 @@ nebudú sa v ňom však možno nachádzať niektoré problémy (nové vám nepri
 
 
 **Vyhodnotenie vplyvu zvolenej stratégie riešenia na správnosť klasifikácie (2b).** 
+  - Zistite, či použitie zvolených stratégií riešenia chýbajúcich hodnôt vplýva 
+    na správnosť (angl. accuracy) klasifikácie. 
+    Ktorá stratégia sa ukázala ako vhodnejšia pre daný problém?
+
+<!--
+- **Vyhodnotenie vplyvu zvolenej stratégie riešenia chýbajúcich hodnôt na správnosť klasifikácie (2b).** 
+  - Zistite, či použitie zvolených stratégií riešenia chýbajúcich hodnôt vplýva 
+	na správnosť (angl. accuracy) klasifikácie. Ktorá stratégia sa ukázala ako vhodnejšia pre daný problém?
   - Okrem scikit-learn, stretaváme aj s inými knižniciami. 
     Preto dátovú transformáciu vieme spraviť aj v mimo scikit-learn.
   - Manuálne zlučíte trénovaciu a validačnú množinu dát pre strojové učenie (2 csv súbory). 
     Výsledný súbor (1 csv súbor) použite na manuálnu 10-násobnú krížovú validáciu.
-
-<!--
-- **Vyhodnotenie vplyvu zvolenej stratégie riešenia chýbajúcich hodnôt na správnosť klasifikácie (2b).** 
-Zistite, či použitie zvolených stratégií riešenia chýbajúcich hodnôt vplýva 
-na správnosť (angl. accuracy) klasifikácie. Ktorá stratégia sa ukázala ako vhodnejšia pre daný problém?
 -->
 
 > Správa sa odovzdáva v 12. týždni semestra na cvičení.
