@@ -14,7 +14,7 @@
 
 8. [Vyhodnocovanie a výber modelov](https://docs.google.com/presentation/d/19szdcF51u2sTYQa_lYIrYu6YXiyXo_oXMfi-xV9JpQY/edit?usp=sharing) (Performance evaluation and model selection)
 
-9. Lineárna a logistická regresia (Linear and logistic regression)
+9. [Lineárna a logistická regresia](https://docs.google.com/presentation/d/1tgSqGv8B0IHjI27WPDnB-Lt-io3d_dPNnIqTwIN-ptA/edit?usp=sharing) (Linear and logistic regression)
 
 10. Rozhodovacie stromy (Decision trees)
 
