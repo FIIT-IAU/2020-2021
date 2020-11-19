@@ -34,7 +34,7 @@ Vyhodnotenie modelov + konzultácia k projektu
 
 [Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): odovzdávanie 2. fázy projektu + do systému AIS do **22.11.2020 23:59**
 
-[Bonusové zadanie nepovinné](https://docs.google.com/presentation/d/19NNH111JAQbQS0EvCCT9NVTNJcQlbBqWRdhHgVMWDno/edit?usp=sharing)
+[Bonusové zadanie - nepovinné](https://docs.google.com/presentation/d/19NNH111JAQbQS0EvCCT9NVTNJcQlbBqWRdhHgVMWDno/edit?usp=sharing)
 
 ### 10. týždeň
 
@@ -48,7 +48,7 @@ Optimalizácia + konzultácia k projektu
 
 [Projekt](https://github.com/FIIT-IAU/2020-2021/blob/master/cvicenia/project.md): odovzdávanie 3. fázy projektu + do systému AIS do **13.12.2020 23:59**
 
-[Bonusové zadanie](https://docs.google.com/presentation/d/19NNH111JAQbQS0EvCCT9NVTNJcQlbBqWRdhHgVMWDno/edit?usp=sharing) odovzdávanie do systému AIS do **20.12.2020 23:59** (len jeden termín lebo ide skúšobné obdobie)
+[Bonusové zadanie](https://docs.google.com/presentation/d/19NNH111JAQbQS0EvCCT9NVTNJcQlbBqWRdhHgVMWDno/edit?usp=sharing): odovzdávanie do systému AIS do **20.12.2020 23:59** (len jeden termín lebo ide skúšobné obdobie)
 
 
 # Upozornenie
