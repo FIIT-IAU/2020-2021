@@ -175,7 +175,7 @@ nebudú sa v ňom však možno nachádzať niektoré problémy (nové vám nepri
 
 
 **Manuálne vytvorenie a vyhodnotenie rozhodovacích pravidiel pre klasifikáciu (3b).** 
-  - Vyskúšajte jednoduché pravidlá zahŕňajúce jeden atribút pre CART, 
+  - Vyskúšajte jednoduché pravidlá (1R) zahŕňajúce jeden atribút pre CART, 
     ale aj komplikovanejšie zahŕňajúce viacero atribútov (ich kombinácie). 
   - Pravidlá by v tomto kroku mali byť vytvorené manuálne na základe pozorovaných závislostí v dátach. 
   - Pravidlá (manuálne vytvorené klasifikátory) vyhodnoťte pomocou metrík *accuracy*, *precision* a *recall*. 
@@ -196,9 +196,8 @@ nebudú sa v ňom však možno nachádzať niektoré problémy (nové vám nepri
 
 
 **Vyhodnotenie vplyvu zvolenej stratégie riešenia na správnosť klasifikácie (2b).** 
-  - Zistite, či použitie zvolených stratégií riešenia chýbajúcich hodnôt vplýva 
-    na správnosť (angl. accuracy) klasifikácie. 
-    Ktorá stratégia sa ukázala ako vhodnejšia pre daný problém?
+  - Zistite, či použitie zvolených stratégií riešenia chýbajúcich hodnôt vplýva na accuracy klasifikácie. 
+  - Ktorá stratégia sa ukázala ako vhodnejšia pre daný problém?
 
 <!--
 - **Vyhodnotenie vplyvu zvolenej stratégie riešenia chýbajúcich hodnôt na správnosť klasifikácie (2b).** 
