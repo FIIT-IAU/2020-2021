@@ -16,7 +16,7 @@
 
 9. [Lineárna a logistická regresia](https://docs.google.com/presentation/d/1tgSqGv8B0IHjI27WPDnB-Lt-io3d_dPNnIqTwIN-ptA/edit?usp=sharing) (Linear and logistic regression)
 
-10. Rozhodovacie stromy (Decision trees)
+10. [Rozhodovacie stromy](https://docs.google.com/presentation/d/1kPLo76xEQsuiA1IiHbP1bpGsGbC0rsfaURZ9CF8Ag_c/edit?usp=sharing) (Decision trees)
 
 11. Numerická optimalizácia a simulácie (Numerical optimization and simulations)
 
