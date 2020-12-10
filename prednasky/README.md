@@ -20,4 +20,4 @@
 
 11. [Numerická optimalizácia a simulácie](https://docs.google.com/presentation/d/1jitimlJn9b5xrJrK0Bvd8_jBBaYRxF_-hg5n1aiDTtk/edit?usp=sharing) (Numerical optimization and simulations)
 
-12. Pokročilé témy analýzy údajov (Advanced topics in Data Science and Artificial Intelligence)
+12. [Pokročilé témy analýzy údajov](https://docs.google.com/presentation/d/1rehxUK-fOXaUsgwsVug3u7zOmdyGKVWIRKp-ED8uk2A/edit?usp=sharing) (Advanced topics in Data Science and Artificial Intelligence)
