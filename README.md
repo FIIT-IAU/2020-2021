@@ -4,9 +4,9 @@
 
 [Sylabus predmetu IAU_B - Intelligent Data Analysis (FIIT - WS 2020/2021)](https://is.stuba.sk/katalog/syllabus.pl?odkud=;zobrazit_sklad=0;zobrazit_obdobi=0;obdobi=;predmet=354704;typ=1;jazyk=3;vystup=1;lang=sk)
 
-## [Prednášky](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky) - Lectures
+## [Prednášky - Lectures](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky)
 
-## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia) - Exercises
+## [Cvičenia - Exercises](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia)
 
 ## [Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2020-2021/blob/master/rozne/README.md)
 
@@ -16,11 +16,11 @@ Literatúry - Literature
 
 - O'Neil, C. and Schutt, R., 2014. Doing data science: Straight talk from the frontline. O'Reilly Media, Inc., ISBN 978-1449358655
 
-- Downey, A., 2014. Think stats: Exploratory Data Analysis. O'Reilly Media, Inc., ISBN 978-1-4919-0733-7
-
 - Shaw, Z.A., 2017. Learn python 3 the hard way: A very simple introduction to the terrifyingly beautiful world of computers and code. Addison-Wesley Professional. ISBN 978-0134692883.
 
-- Skiena, S.S., The Data Science Design Manual. Springer International Publishing, 2017. 445 s. ISBN 978-3-319-55443-3
+- Skiena, S.S., 2017, The Data Science Design Manual. Springer International Publishing, ISBN 978-3-319-55443-3
+
+- Downey, A., 2014. Think stats: Exploratory Data Analysis. O'Reilly Media, Inc., ISBN 978-1-4919-0733-7
 
 - Vanderplas, J., Python Data Science Handbook: Essential Tools for Working with Data. O'Reilly Media, 2016. 541 s. ISBN 978-1-4919-1205-8.
 
