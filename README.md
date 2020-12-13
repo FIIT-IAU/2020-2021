@@ -6,43 +6,10 @@
 
 ## [Prednášky](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky) - Lectures
 
-
-
 ## [Cvičenia](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia) - Exercises
 
+## [Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2020-2021/blob/master/rozne/README.md)
 
-
-## Podmienky na absolvovanie predmetu
-Cvičenie a projekt vo dvojiciach: **max. 60 bodov**
-
-Práca na úlohách v rámci cvičení: 5 bodov
-
-Projekt
-1. fáza - prieskumná analýza (v 6. týždni): 16 bodov
-2. fáza - predspracovanie údajov (v 9. týždni): 21 bodov
-3. fáza - strojové učenie (v 12. týždni): 18 bodov
-
-Skúška: **max. 40 bodov**
-
-## Ďalšie podmienky pre úspešné absolvovanie predmetu:
-1. vypracovanie projektu v akceptovateľnej kvalite, jeho odovzdanie a prezentovanie podľa harmonogramu
-2. aktívna účasť na cvičeniach
-3. získanie aspoň 25 bodov počas semestra
-4. získanie aspoň 10 bodov zo skúšky
-5. získanie aspoň 56 bodov v súčte bodov za semester a skúšku podľa platnej klasifikačnej stupnice na FIIT STU
-
-V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
-
-Pre absolvovanie predmetu zároveň platia všeobecné podmienky absolvovania a hodnotenia predmetov. Hodnotenie študenta je súčet získaných bodov za cvičenie, projekt  a za skúšku. 
-
-- Ak študent získa najmenej 92 bodov je hodnotený klasifikačným stupňom A, 
-- ak získa najmenej 83 bodov je hodnotený klasifikačným stupňom B, 
-- ak získa najmenej 74 bodov je hodnotený klasifikačným stupňom C, 
-- ak získa najmenej 65 bodov je hodnotený klasifikačným stupňom D, 
-- ak získa najmenej 56 bodov je hodnotený klasifikačným stupňom E, 
-- ak získa menej ako 56 bodov je hodnotený klasifikačným stupňom FX. 
-
-Za samozrejmosť sa považuje dodržanie pravidiel akademickej korektnosti a čestnosti. Akékoľvek vydávanie cudzej práce za vlastnú je neakceptovateľné, a to v akomkoľvek rozsahu. Ak sa ho dopustíte, automaticky to znamená neúspešné ukončenie predmetu (FX) a podnet na disciplinárnu komisiu.
 
 Literatúry - Literature
 ------------
@@ -64,6 +31,6 @@ Literatúry - Literature
 
 - Nguyen G. et al.: [Considerations about Data Processing, Machine Learning, HPC, Apache Spark and GPU](https://giangzuzana.github.io/files/2016_WIKT-DaZ.pdf). 11th Workshop on Intelligent and Knowledge Oriented Technologies affiliated with 35th int. conf. Data and Knowledge (WIKT-DaZ 2016), pp. 241-247, ISBN 978-80-227-4619-9. (Eds. M. Bieliková and I. Srba)
 
-- Móro R., Ševcech J., Kaššák O.: [Intelligent Data Analysis at FIIT STU in 2019/2020](https://github.com/robom/IAU-2019-2020)
+- Móro R., Ševcech J.: [FIIT STU IAU 2019/2020](https://github.com/robom/IAU-2019-2020)
 
 - Casella, G. and Berger, R.L., 2002. Statistical inference (Vol. 2, pp. 337-472). Pacific Grove, CA: Duxbury.
