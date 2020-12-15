@@ -1,3 +1,4 @@
+# Inteligentná analýza údajov - Intelligent Data Analysis
 **Typ štúdia:** bakalárske  
 **Počet kreditov:** 6  
 **Semester:** zimný     
