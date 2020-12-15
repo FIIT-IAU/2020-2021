@@ -1,3 +1,6 @@
+# Inteligentná analýza údajov - Intelligent Data Analysis
+## Cvičenia - Exercises
+
 ### 1. týždeň
 
 Príprava prostredia: Python virtual environments, hľadanie partnera na projekt
@@ -51,7 +54,7 @@ Optimalizácia + konzultácia k projektu
 [Bonusové zadanie](https://docs.google.com/presentation/d/19NNH111JAQbQS0EvCCT9NVTNJcQlbBqWRdhHgVMWDno/edit?usp=sharing): odovzdávanie do systému AIS do **20.12.2020 23:59** (len jeden termín lebo ide skúšobné obdobie)
 
 
-# Upozornenie
+## Upozornenie
 
 > Odovzdávanie správy projektu sa realizuje v 6. týždni (1. fáza), 9. týždni (2. fáza) a 12. týždni (3. fáza) semestra na cvičení. 
 > 
