@@ -31,6 +31,6 @@ Literatúry - Literature
 
 - Nguyen G. et al.: [Considerations about Data Processing, Machine Learning, HPC, Apache Spark and GPU](https://giangzuzana.github.io/files/2016_WIKT-DaZ.pdf). 11th Workshop on Intelligent and Knowledge Oriented Technologies affiliated with 35th int. conf. Data and Knowledge (WIKT-DaZ 2016), pp. 241-247, ISBN 978-80-227-4619-9. (Eds. M. Bieliková and I. Srba)
 
-- Móro R., Ševcech J.: [FIIT STU IAU 2019/2020](https://github.com/robom/IAU-2019-2020)
+- Móro R., Ševcech J.: [FIIT STU IAU 2019/2020](https://github.com/FIIT-IAU/IAU-2019-2020)
 
 - Casella, G. and Berger, R.L., 2002. Statistical inference (Vol. 2, pp. 337-472). Pacific Grove, CA: Duxbury.
