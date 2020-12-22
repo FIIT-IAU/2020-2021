@@ -51,7 +51,7 @@ Optimalizácia + konzultácia k projektu
 
 Projekt: odovzdávanie 3. fázy projektu + do systému AIS do **13.12.2020 23:59**
 
-[Bonusové zadanie](https://docs.google.com/presentation/d/19NNH111JAQbQS0EvCCT9NVTNJcQlbBqWRdhHgVMWDno/present?usp=sharing): odovzdávanie do systému AIS do **20.12.2020 23:59** (len jeden termín lebo ide skúšobné obdobie)
+Bonusové zadanie: odovzdávanie do systému AIS do **20.12.2020 23:59** (len jeden termín lebo ide skúšobné obdobie)
 
 
 ## Upozornenie
