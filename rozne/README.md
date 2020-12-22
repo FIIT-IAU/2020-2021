@@ -26,7 +26,7 @@ Skúška: **max. 40 bodov**
 1. vypracovanie projektu v akceptovateľnej kvalite, jeho odovzdanie a prezentovanie podľa harmonogramu
 2. aktívna účasť na cvičeniach
 3. získanie aspoň 25 bodov počas semestra
-4. získanie aspoň 10 bodov zo skúšky
+4. získanie aspoň 10 bodov zo [skúšky](https://teams.microsoft.com/l/channel/19%3a32f872f2965f40608c47eb28ae3bcfe3%40thread.tacv2/sk%25C3%25BA%25C5%25A1ka-2021?groupId=77262e15-c891-4ab9-bc88-3de7c6d1c66f&tenantId=25733538-6b16-4aa3-8ed6-297eb79b8e06)
 5. získanie aspoň 56 bodov v súčte bodov za semester a skúšku podľa platnej klasifikačnej stupnice na FIIT STU
 
 V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
