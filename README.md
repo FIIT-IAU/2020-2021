@@ -18,17 +18,10 @@ Literatúry - Literature
 
 - Shaw, Z.A., 2017. Learn python 3 the hard way: A very simple introduction to the terrifyingly beautiful world of computers and code. Addison-Wesley Professional. ISBN 978-0134692883.
 
-- Skiena, S.S., 2017, The Data Science Design Manual. Springer International Publishing, ISBN 978-3-319-55443-3
-
-- Downey, A., 2014. Think stats: Exploratory Data Analysis. O'Reilly Media, Inc., ISBN 978-1-4919-0733-7
-
-- Vanderplas, J., Python Data Science Handbook: Essential Tools for Working with Data. O'Reilly Media, 2016. 541 s. ISBN 978-1-4919-1205-8.
-
+- Casella, G. and Berger, R.L., 2021. Statistical inference. Cengage Learning.
 
 Ďalšie čítanie - Reading/References
 ------------
 - Nguyen G. et al.: [Machine Learning and Deep Learning frameworks and libraries for large-scale data mining: a survey](https://doi.org/10.1007/s10462-018-09679-z). Artificial Intelligence Review, Springer Nature, 2019, ISSN 0269-2821, DOI 10.1007/s10462-018-09679-z.
 
 - Nguyen G. et al.: [Considerations about Data Processing, Machine Learning, HPC, Apache Spark and GPU](https://giangzuzana.github.io/files/2016_WIKT-DaZ.pdf). 11th Workshop on Intelligent and Knowledge Oriented Technologies affiliated with 35th int. conf. Data and Knowledge (WIKT-DaZ 2016), pp. 241-247, ISBN 978-80-227-4619-9. (Eds. M. Bieliková and I. Srba)
-
-- Casella, G. and Berger, R.L., 2002. Statistical inference (Vol. 2, pp. 337-472). Pacific Grove, CA: Duxbury.
