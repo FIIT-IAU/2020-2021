@@ -15,7 +15,7 @@ Základy prieskumnej analýzy a vizualizácie údajov
 
 ### 4. týždeň
 
-[Projekt](https://teams.microsoft.com/l/channel/19%3A0a50eea27a4747b18a075eb6e4eb3ad3%40thread.tacv2/tab%3A%3A4faeb99a-e7ed-4247-86c7-1dc4767d5f77?groupId=77262e15-c891-4ab9-bc88-3de7c6d1c66f&tenantId=25733538-6b16-4aa3-8ed6-297eb79b8e06): organizácia v dvojiciach + zadanie projektu + knižnice na prácu s dátami
+Projekt: organizácia v dvojiciach + zadanie projektu + knižnice na prácu s dátami
 
 ### 5. týždeň
 
