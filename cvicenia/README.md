@@ -37,7 +37,7 @@ Vyhodnotenie modelov + konzultácia k projektu
 
 Projekt: odovzdávanie 2. fázy projektu + do systému AIS do **22.11.2020 23:59**
 
-[Bonusové zadanie](https://docs.google.com/presentation/d/19NNH111JAQbQS0EvCCT9NVTNJcQlbBqWRdhHgVMWDno/present?usp=sharing) - nepovinné
+Bonusové zadanie - nepovinné
 
 ### 10. týždeň
 
