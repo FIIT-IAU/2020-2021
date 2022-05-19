@@ -12,7 +12,7 @@
 Literatúry - Literature
 ------------
 
-- Nguyen, G., 2022. [Introduction to Data Science](https://www.fiit.stuba.sk/~nguyen/files/2022-SPEKTRUM-IntroDS.pdf). Spektrum STU Publishing, ISBN 978-80-227-5193-3. [ ELVIRA ](http://elvira.fiit.stuba.sk/).
+- Nguyen, G., 2022. [Introduction to Data Science](https://www.fiit.stuba.sk/~nguyen/files/2022-SPEKTRUM-IntroDS.pdf). Spektrum STU Publishing, ISBN 978-80-227-5193-3. [ [ ELVIRA ](http://elvira.fiit.stuba.sk/) ].
 
 - O'Neil, C. and Schutt, R., 2014. Doing data science: Straight talk from the frontline. O'Reilly Media, Inc., ISBN 978-1449358655
 
