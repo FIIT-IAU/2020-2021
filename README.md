@@ -14,8 +14,7 @@ Literatúry - Literature
 
 - Nguyen, G., 2022. [Introduction to Data Science](https://www.fiit.stuba.sk/~nguyen/files/2022-SPEKTRUM-IntroDS.pdf). Spektrum STU Publishing, ISBN 978-80-227-5193-3. <br> [ [ ELVIRA ] ](http://elvira.fiit.stuba.sk/).
 ```
-@book{nguyen2022ds,  
-address = {Bratislava, Slovakia},  
+@book{nguyen2022ds,   
 author = {Nguyen, Giang},  
 isbn = {978-80-227-5193-3},   
 publisher = {Spektrum STU Publishing},  
