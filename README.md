@@ -13,6 +13,16 @@ Literatúry - Literature
 ------------
 
 - Nguyen, G., 2022. [Introduction to Data Science](https://www.fiit.stuba.sk/~nguyen/files/2022-SPEKTRUM-IntroDS.pdf). Spektrum STU Publishing, ISBN 978-80-227-5193-3. <br> [ [ ELVIRA ] ](http://elvira.fiit.stuba.sk/).
+```
+@book{nguyen2022ds,  
+address = {Bratislava, Slovakia},  
+author = {Nguyen, Giang},  
+isbn = {978-80-227-5193-3},   
+publisher = {Spektrum STU Publishing},  
+title = {{Introduction to Data Science}},  
+year = {2022}  
+}
+```
 
 - O'Neil, C. and Schutt, R., 2014. Doing data science: Straight talk from the frontline. O'Reilly Media, Inc., ISBN 978-1449358655
 
