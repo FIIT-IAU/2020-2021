@@ -18,7 +18,7 @@ Literatúry - Literature
 
 - Casella, G. and Berger, R.L., 2001. Statistical inference. Cengage Learning.
 
-Incomming course textbook
+Incomming course textbook (planned in 2020)
 ------------
 - Nguyen, G., 2022. Introduction to Data Science. Spektrum STU Publishing, ISBN 978-80-227-5193-3. Available in [ [ ELVIRA ] ](http://elvira.fiit.stuba.sk/).
 ```
