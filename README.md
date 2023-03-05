@@ -1,12 +1,12 @@
 #  Inteligentná analýza údajov - Intelligent Data Analysis
 
-## [Prednášky - Lectures](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky)
+### [Prednášky - Lectures](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky)
 
-## [Cvičenia - Exercises](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia)
+### [Cvičenia - Exercises](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia)
 
-## [Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2020-2021/blob/master/rozne/README.md)
+### [Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2020-2021/blob/master/rozne/README.md)
 
-## MS Teams
+### MS Teams
 
 Course textbook (planned in 2020)
 ------------
