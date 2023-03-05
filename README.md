@@ -8,7 +8,7 @@
 
 ### MS Teams
 
-Course textbook (planned in 2020)
+### Course textbook (planned in 2020)
 ------------
 - Nguyen, G., 2022. Introduction to Data Science. Spektrum STU Publishing, ISBN 978-80-227-5193-3. Available in [ [ ELVIRA ] ](http://elvira.fiit.stuba.sk/).
 ```
