@@ -1,6 +1,6 @@
 #  Inteligentná analýza údajov - Intelligent Data Analysis
 
-Archived -> Current version (https://github.com/FIIT-IAU/course)[https://github.com/FIIT-IAU/course]
+Archived -> Current version [https://github.com/FIIT-IAU/course](https://github.com/FIIT-IAU/course)
 
 ### [Prednášky - Lectures](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky)
 
