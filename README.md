@@ -2,6 +2,8 @@
 
 Archived -> Current version [https://github.com/FIIT-IAU/course](https://github.com/FIIT-IAU/course)
 
+## Introduction to Data Science
+
 ### [Prednášky - Lectures](https://github.com/FIIT-IAU/2020-2021/tree/master/prednasky)
 
 ### [Cvičenia - Exercises](https://github.com/FIIT-IAU/2020-2021/tree/master/cvicenia)
