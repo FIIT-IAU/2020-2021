@@ -1,4 +1,4 @@
-#  Inteligentná analýza údajov
+#  Inteligentná analýza údajov (IAU_B)
 
 Archived -> Current version [https://github.com/FIIT-IAU/IAU-course](https://github.com/FIIT-IAU/IAU-course)
 
